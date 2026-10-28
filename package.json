@@ -1,0 +1,12 @@
+{
+  "name": "ballet-api",
+  "version": "1.0.0",
+  "description": "API serverless para app de ballet",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
