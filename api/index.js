@@ -15,7 +15,18 @@ app.get('/', (req, res) => {
 });
 
 app.get('/api/ballets', (req, res) => {
-  res.json(balletsData);
+  const parsedLimit = parseInt(req.query.limit, 10);
+  const limit = Number.isNaN(parsedLimit) || parsedLimit < 0 ? 0 : parsedLimit;
+
+  const list = balletsData.map(b => ({
+    id: b.id,
+    title: b.title,
+    composer: b.composer,
+    premiere_year: b.premiere_year,
+    cover_image: b.multimedia ? b.multimedia.cover_image_url : null
+  }));
+
+  res.json(limit > 0 ? list.slice(0, limit) : list);
 });
 
 app.get('/api/ballets/:id', (req, res) => {
