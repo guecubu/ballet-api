@@ -1,3 +1,632 @@
-{
-  "response": "[{\"id\":16,\"title\":\"Coppelia\",\"composer\":\"Léo Delibes\",\"original_choreographer\":\"Arthur Saint-Léon\",\"premiere_year\":1870,\"premiere_location\":\"Paris Opéra, Paris\",\"acts\":3,\"synopsis\":\"Act I: Franz becomes infatuated with Coppélia, a lifelike mechanical doll sitting on a balcony, angering his fiancée Swanilda. Act II: Swanilda and her friends sneak into toymaker Dr. Coppélius's workshop, discover the doll is wooden, and Swanilda impersonates it. Act III: Reconciliation and marriage of Swanilda and Franz during a village festival celebrating the town's new bell.\",\"history_and_evolution\":\"One of the last great comic ballets of the Romantic era, noted for Delibes's pioneering use of leitmotifs for characters. It successfully integrated folk dances like mazurkas and czardas into classical frameworks.\",\"characters\":[\"Swanilda\",\"Franz\",\"Dr. Coppélius\",\"Coppélia\"],\"key_variations\":[\"Swanilda's Waltz\",\"Dawn Variation\",\"Automaton Dance\"],\"historical_performances\":[{\"year\":1884,\"company\":\"Imperial Ballet\",\"theater\":\"Bolshoi Kamenny Theatre\",\"choreographer\":\"Marius Petipa\",\"relevance\":\"Brought the production to St. Petersburg, ensuring its long-term survival.\"}],\"prominent_companies\":[{\"name\":\"Australian Ballet\",\"country\":\"Australia\",\"official_url\":\"https://australianballet.com.au\"}],\"multimedia\":{\"cover_image_url\":\"https://commons.wikimedia.org/wiki/Special:FilePath/Coppelia_1870.jpg\",\"europeana_search_term\":\"Coppelia Ballet\",\"youtube_query\":\"Coppelia Ballet full\"}},{\"id\":17,\"title\":\"Sylvia\",\"composer\":\"Léo Delibes\",\"original_choreographer\":\"Louis Mérante\",\"premiere_year\":1876,\"premiere_location\":\"Paris Opéra, Paris\",\"acts\":3,\"synopsis\":\"Acto I: The nymph Sylvia rejects love, but falls for the shepherd Amyntas, who is subsequently killed. Acto II: Sylvia is imprisoned by the wicked hunter Orion, but escapes with the help of Eros. Acto III: Eros restores Amyntas to life, and Sylvia embraces love under the blessing of Diana.\",\"history_and_evolution\":\"Delibes's score was widely praised by Tchaikovsky for its symphonic richness and orchestral innovation. Frederick Ashton created a celebrated neoclassical version in 1952 for the Royal Ballet starring Margot Fonteyn.\",\"characters\":[\"Sylvia\",\"Amyntas\",\"Eros\",\"Orion\",\"Diana\"],\"key_variations\":[\"Sylvia Pizzicato\",\"Diana's Variation\"],\"historical_performances\":[{\"year\":1952,\"company\":\"The Royal Ballet\",\"theater\":\"Royal Opera House\",\"choreographer\":\"Frederick Ashton\",\"relevance\":\"Revived the neglected masterpiece as a showcase for Margot Fonteyn.\"}],\"prominent_companies\":[{\"name\":\"The Royal Ballet\",\"country\":\"United Kingdom\",\"official_url\":\"https://www.roh.org.uk\"}],\"multimedia\":{\"cover_image_url\":\"https://commons.wikimedia.org/wiki/Special:FilePath/Sylvia_ballet.jpg\",\"europeana_search_term\":\"Sylvia Ballet Delibes\",\"youtube_query\":\"Sylvia Ballet Ashton Royal Opera House\"}},{\"id\":18,\"title\":\"Petrushka\",\"composer\":\"Igor Stravinsky\",\"original_choreographer\":\"Michel Fokine\",\"premiere_year\":1911,\"premiere_location\":\"Théâtre du Châtelet, Paris\",\"acts\":4,\"synopsis\":\"Scene I: At a St. Petersburg Shrovetide fair, an old Showman brings three puppet characters to life: Petrushka, the Ballerina, and the Moor. Scene II: Petrushka suffers in his cell from human emotions and unrequited love. Scene III: The Moor woos the Ballerina; Petrushka interrupts and is chased away. Scene IV: During the festival celebrations, the Moor kills Petrushka, whose ghost haunts the Showman.\",\"history_and_evolution\":\"A masterwork of modernist ballet that fused Russian folk traditions with complex polytonal music. Nijinsky's portrayal of the puppet Petrushka remains legendary for its tragic intensity.\",\"characters\":[\"Petrushka\",\"The Ballerina\",\"The Moor\",\"The Showman\"],\"key_variations\":[\"Petrushka's Russian Dance\",\"Moor's Dance\"],\"historical_performances\":[{\"year\":1911,\"company\":\"Ballets Russes\",\"theater\":\"Théâtre du Châtelet\",\"choreographer\":\"Michel Fokine\",\"relevance\":\"Redefined character ballet through expressionistic psychological depth.\"}],\"prominent_companies\":[{\"name\":\"Mariinsky Ballet\",\"country\":\"Russia\",\"official_url\":\"https://www.mariinsky.ru\"}],\"multimedia\":{\"cover_image_url\":\"https://commons.wikimedia.org/wiki/Special:FilePath/Petrushka_1911.jpg\",\"europeana_search_term\":\"Petrushka Ballet Stravinsky\",\"youtube_query\":\"Petrushka Ballet Stravinsky full\"}},{\"id\":19,\"title\":\"Daphnis et Chloé\",\"composer\":\"Maurice Ravel\",\"original_choreographer\":\"Michel Fokine\",\"premiere_year\":1912,\"premiere_location\":\"Théâtre du Châtelet, Paris\",\"acts\":1,\"synopsis\":\"Scene I: Daphnis and Chloé express their love in a sacred grove until pirates kidnap Chloé. Scene II: In the pirate stronghold, Chloé performs a captive dance before the chieftain. Scene III: Pan rescues Chloé, reuniting the lovers in a joyful theatrical enactment of the myth of Pan and Syrinx.\",\"history_and_evolution\":\"Commissioned by Sergei Diaghilev, Ravel described it as a choreographic symphony. Frederick Ashton created a celebrated 1951 version for the Royal Ballet that remains a benchmark of lyrical pastoral choreography.\",\"characters\":[\"Daphnis\",\"Chloé\",\"Dorkon\",\"Bryaxis\",\"Pan\"],\"key_variations\":[\"Chloé's Dance of the Pirates\",\"General Dance of the Lovers\"],\"historical_performances\":[{\"year\":1951,\"company\":\"The Royal Ballet\",\"theater\":\"Royal Opera House\",\"choreographer\":\"Frederick Ashton\",\"relevance\":\"Created a defining neoclassical standard for Ravel's lush score.\"}],\"prominent_companies\":[{\"name\":\"The Royal Ballet\",\"country\":\"United Kingdom\",\"official_url\":\"https://www.roh.org.uk\"}],\"multimedia\":{\"cover_image_url\":\"https://commons.wikimedia.org/wiki/Special:FilePath/Daphnis_et_Chloe.jpg\",\"europeana_search_term\":\"Daphnis et Chloe Ballet\",\"youtube_query\":\"Daphnis et Chloe Ashton Ballet\"}},{\"id\":20,\"title\":\"Les Sylphides\",\"composer\":\"Frédéric Chopin (orchestrated)\",\"original_choreographer\":\"Michel Fokine\",\"premiere_year\":1909,\"premiere_location\":\"Théâtre du Châtelet, Paris\",\"acts\":1,\"synopsis\":\"A romantic reverie without a traditional plot. A young poet dressed in white dreams of a nocturnal gathering of sylphs in a moonlit forest, dancing graceful ethereal movements with a principal sylph.\",\"history_and_evolution\":\"Originally staged in St. Petersburg in 1908 as 'Chopiniana' before Diaghilev restaged it as 'Les Sylphides' for the Ballets Russes. It established the genre of 'abstract ballet' or 'ballet blanc' in the 20th century.\",\"characters\":[\"The Poet\",\"The Leading Sylph\",\"Sylphs\"],\"key_variations\":[\"Prelude in A major Solo\",\"Waltz in C-sharp minor\"],\"historical_performances\":[{\"year\":1909,\"company\":\"Ballets Russes\",\"theater\":\"Théâtre du Châtelet\",\"choreographer\":\"Michel Fokine\",\"relevance\":\"Pioneered the plotless atmospheric ballet format.\"}],\"prominent_companies\":[{\"name\":\"Paris Opera Ballet\",\"country\":\"France\",\"official_url\":\"https://www.operadeparis.fr\"}],\"multimedia\":{\"cover_image_url\":\"https://commons.wikimedia.org/wiki/Special:FilePath/Les_Sylphides_1909.jpg\",\"europeana_search_term\":\"Les Sylphides Ballet Fokine\",\"youtube_query\":\"Les Sylphides Ballet full\"}},{\"id\":21,\"title\":\"The Prodigal Son\",\"composer\":\"Sergei Prokofiev\",\"original_choreographer\":\"George Balanchine\",\"premiere_year\":1929,\"premiere_location\":\"Teatro Sarah Bernhardt, Paris\",\"acts\":1,\"synopsis\":\"Scene I: A rebellious young son leaves his patriarchal home to seek adventure. Scene II: He is robbed, betrayed, and stripped of his dignity by a seductive Siren and her wicked companions. Scene III: Broken and destitute, he crawls back home in repentance, seeking forgiveness from his loving father.\",\"history_and_evolution\":\"Balanchine's final creation for the Ballets Russes at age 25. It combined expressionistic athletic movement with Biblical narrative intensity, remaining a cornerstone of dramatic neoclassical repertory.\",\"characters\":[\"The Prodigal Son\",\"The Siren\",\"The Father\",\"Companions\"],\"key_variations\":[\"Siren's Variation\",\"Prodigal's Return Crawl\"],\"historical_performances\":[{\"year\":1929,\"company\":\"Ballets Russes\",\"theater\":\"Teatro Sarah Bernhardt\",\"choreographer\":\"George Balanchine\",\"relevance\":\"Showcased Balanchine's early dramatic genius before his American migration.\"}],\"prominent_companies\":[{\"name\":\"New York City Ballet\",\"country\":\"United States\",\"official_url\":\"https://www.nycballet.com\"}],\"multimedia\":{\"cover_image_url\":\"https://commons.wikimedia.org/wiki/Special:FilePath/Prodigal_Son_Ballet.jpg\",\"europeana_search_term\":\"Prodigal Son Ballet Balanchine\",\"youtube_query\":\"Prodigal Son Ballet Balanchine NYCB\"}},{\"id\":22,\"title\":\"Serenade\",\"composer\":\"Pyotr Ilyich Tchaikovsky\",\"original_choreographer\":\"George Balanchine\",\"premiere_year\":1934,\"premiere_location\":\"Percenti Farm, White Plains, New York\",\"acts\":1,\"synopsis\":\"An abstract neoclassical ballet performed by an all-female corps de ballet that grows to include male dancers. The movements respond directly to the shifting emotional moods of Tchaikovsky's Serenade for Strings, culminating in a tragic parting.\",\"history_and_evolution\":\"The first ballet Balanchine created in America after co-founding the School of American Ballet. It famously incorporated real-life rehearsal accidents—such as a student falling or arriving late—into the official choreography.\",\"characters\":[\"Principal Dancers and Ensemble (Abstract)\"],\"key_variations\":[\"Waltz Movement Solo\",\"Elegy Finale\"],\"historical_performances\":[{\"year\":1934,\"company\":\"American Ballet\",\"theater\":\"Hartley House, New York\",\"choreographer\":\"George Balanchine\",\"relevance\":\"First original ballet created by Balanchine in the United States.\"}],\"prominent_companies\":[{\"name\":\"New York City Ballet\",\"country\":\"United States\",\"official_url\":\"https://www.nycballet.com\"}],\"multimedia\":{\"cover_image_url\":\"https://commons.wikimedia.org/wiki/Special:FilePath/Serenade_Ballet.jpg\",\"europeana_search_term\":\"Serenade Ballet Balanchine\",\"youtube_query\":\"Serenade Ballet Balanchine full\"}},{\"id\":23,\"title\":\"Agon\",\"composer\":\"Igor Stravinsky\",\"original_choreographer\":\"George Balanchine\",\"premiere_year\":1957,\"premiere_location\":\"New York City Center, New York\",\"acts\":1,\"synopsis\":\"An abstract ballet for twelve dancers structured as a series of 17th-century court dances (sarabande, galliard, bransle) reinterpreted through sharp, angular 20th-century neoclassical abstraction and serialist twelve-tone music.\",\"history_and_evolution\":\"A landmark collaboration between Balanchine and Stravinsky that pushed neoclassical technique into radical modernist territory, featuring innovative partnering and geometric interplay.\",\"characters\":[\"Ensemble Cast (12 Dancers)\"],\"key_variations\":[\"Pas de Deux (Stravinsky/Balanchine)\",\"Bransle Simple\"],\"historical_performances\":[{\"year\":1957,\"company\":\"New York City Ballet\",\"theater\":\"New York City Center\",\"choreographer\":\"George Balanchine\",\"relevance\":\"Redefined modern neoclassical partnering and formalist structure.\"}],\"prominent_companies\":[{\"name\":\"New York City Ballet\",\"country\":\"United States\",\"official_url\":\"https://www.nycballet.com\"}],\"multimedia\":{\"cover_image_url\":\"https://commons.wikimedia.org/wiki/Special:FilePath/Agon_ballet.jpg\",\"europeana_search_term\":\"Agon Ballet Balanchine\",\"youtube_query\":\"Agon Ballet Balanchine NYCB\"}},{\"id\":24,\"title\":\"The Miraculous Mandarin\",\"composer\":\"Béla Bartók\",\"original_choreographer\":\"Endre Granec\",\"premiere_year\":1926,\"premiere_location\":\"Cologne Opera House, Cologne\",\"acts\":1,\"synopsis\":\"In a sordid urban underworld, a trio of pimps forces a young girl to lure men in to be robbed. After several clients, a silent, mysterious Mandarin enters. Though stabbed, beaten, and hanged by the criminals, he refuses to die until the girl embraces him out of pity, after which he peacefully expires.\",\"history_and_evolution\":\"Bartók's expressionist score and Lengyel's erotic, violent libretto caused censorship scandals across Europe. Kenneth MacMillan's 1981 version for the Royal Ballet is widely praised for its raw theatrical power.\",\"characters\":[\"The Mandarin\",\"The Girl\",\"The Three Pimps\"],\"key_variations\":[\"Mandarin's Pursuit Solos\",\"The Girl's Seduction Dance\"],\"historical_performances\":[{\"year\":1981,\"company\":\"The Royal Ballet\",\"theater\":\"Edinburgh Festival Theatre\",\"choreographer\":\"Kenneth MacMillan\",\"relevance\":\"Brought intense psychological drama and brutal realism to British modern ballet.\"}],\"prominent_companies\":[{\"name\":\"The Royal Ballet\",\"country\":\"United Kingdom\",\"official_url\":\"https://www.roh.org.uk\"}],\"multimedia\":{\"cover_image_url\":\"https://commons.wikimedia.org/wiki/Special:FilePath/Miraculous_Mandarin.jpg\",\"europeana_search_term\":\"The Miraculous Mandarin Ballet\",\"youtube_query\":\"The Miraculous Mandarin Ballet MacMillan\"}},{\"id\":25,\"title\":\"Cinderella\",\"composer\":\"Sergei Prokofiev\",\"original_choreographer\":\"Rostislav Zakharov\",\"premiere_year\":1945,\"premiere_location\":\"Bolshoi Theatre, Moscow\",\"acts\":3,\"synopsis\":\"Act I: Cinderella is abused by her stepfamily while dreaming of a grand life. Acto II: With the aid of a Fairy Godmother and seasonal fairies, she attends the royal ball, captures the Prince's heart, but flees at midnight, leaving behind a single glass slipper. Acto III: The Prince searches the kingdom, finds the matching slipper fits Cinderella, and they are joyfully united.\",\"history_and_evolution\":\"Composed during World War II, Prokofiev's score combines lyrical melancholy with witty satirical motifs. Frederick Ashton's 1948 version for the Royal Ballet remains an iconic British interpretation.\",\"characters\":[\"Cinderella\",\"The Prince\",\"Fairy Godmother\",\"Stepsisters\",\"Stepmother\"],\"key_variations\":[\"Clock Variation\",\"Autumn Fairy Solo\",\"Cinderella's Waltz\"],\"historical_performances\":[{\"year\":1948,\"company\":\"The Royal Ballet\",\"theater\":\"Royal Opera House\",\"choreographer\":\"Frederick Ashton\",\"relevance\":\"Established the quintessential British comic interpretation of Prokofiev's score.\"}],\"prominent_companies\":[{\"name\":\"The Royal Ballet\",\"country\":\"United Kingdom\",\"official_url\":\"https://www.roh.org.uk\"}],\"multimedia\":{\"cover_image_url\":\"https://commons.wikimedia.org/wiki/Special:FilePath/Cinderella_ballet.jpg\",\"europeana_search_term\":\"Cinderella Ballet Prokofiev\",\"youtube_query\":\"Cinderella Ballet Ashton full\"}},{\"id\":26,\"title\":\"The Fountain of Bakhchisaray\",\"composer\":\"Boris Asafyev\",\"original_choreographer\":\"Rostislav Zakharov\",\"premiere_year\":1934,\"premiere_location\":\"Kirov Theatre, Leningrad\",\"acts\":4,\"synopsis\":\"Acto I: Crimean Khan Girey raids a Polish castle, killing nobles and capturing the Polish princess Maria. Acto II: In the harem, Girey's former favorite concubine Zarema burns with jealousy over Maria. Acto III: Zarema confronts and murders Maria in her chamber. Acto IV: Stricken with grief, Khan Girey builds a weeping stone fountain of tears in her memory.\",\"history_and_evolution\":\"A cornerstone of Soviet dramaballet that prioritized theatrical acting and literary narrative over abstract technical showmanship, based on Alexander Pushkin's poem.\",\"characters\":[\"Maria\",\"Khan Girey\",\"Zarema\",\"Waclaw\"],\"key_variations\":[\"Zarema's Solo\",\"Tartar Dances\"],\"historical_performances\":[{\"year\":1934,\"company\":\"Kirov Ballet\",\"theater\":\"Kirov Theatre\",\"choreographer\":\"Rostislav Zakharov\",\"relevance\":\"Pioneered the Soviet 'dramaballet' style integrating cinematic plot structures.\"}],\"prominent_companies\":[{\"name\":\"Mariinsky Ballet\",\"country\":\"Russia\",\"official_url\":\"https://www.mariinsky.ru\"}],\"multimedia\":{\"cover_image_url\":\"https://commons.wikimedia.org/wiki/Special:FilePath/Fountain_of_Bakhchisaray.jpg\",\"europeana_search_term\":\"The Fountain of Bakhchisaray Ballet\",\"youtube_query\":\"The Fountain of Bakhchisaray Ballet full\"}},{\"id\":27,\"title\":\"Spartacusni\",\"composer\":\"Aram Khachaturian\",\"original_choreographer\":\"Leonid Yakobson\",\"premiere_year\":1956,\"premiere_location\":\"Kirov Theatre, Leningrad\",\"acts\":4,\"synopsis\":\"Acto I: The Thracian gladiator Spartacus and his wife Phrygia are captured by Roman forces under Crassus. Acto II: Spartacus incites a massive gladiator revolt against Roman oppression. Acto III: Betrayed and surrounded, Spartacus and his rebel army are defeated by Crassus in a brutal final battle, leading to Spartacus's tragic death.\",`history_and_evolution\":\"Khachaturian's powerful, brass-heavy score provided the backdrop for Yuri Grigorovich's 1968 Bolshoi version, which became legendary for its high-flying athletic heroism and massive male ensemble work.\",\"characters\":[\"Spartacus\",\"Crassus\",\"Phrygia\",\"Aegina\"],\"key_variations\":[\"Spartacus and Phrygia Adagio\",\"Sword Dance of the Gladiators\"],\"historical_performances\":[{\"year\":1968,\"company\":\"Bolshoi Ballet\",\"theater\":\"Bolshoi Theatre\",\"choreographer\":\"Yuri Grigorovich\",\"relevance\":\"Redefined Soviet heroic ballet through powerful male virtuosity and epic scale.\"}],\"prominent_companies\":[{\"name\":\"Bolshoi Ballet\",\"country\":\"Russia\",\"official_url\":\"https://bolshoi.ru\"}],\"multimedia\":{\"cover_image_url\":\"https://commons.wikimedia.org/wiki/Special:FilePath/Spartacus_ballet.jpg\",\"europeana_search_term\":\"Spartacus Ballet Grigorovich\",\"youtube_query\":\"Spartacus Ballet Bolshoi full\"}},{\"id\":28,\"title\":\"The Stone Flower\",\"composer\":\"Sergei Prokofiev\",\"original_choreographer\":\"Leonid Lavrovsky\",\"premiere_year\":1954,\"premiere_location\":\"Bolshoi Theatre, Moscow\",\"acts\":2,\"synopsis\":\"Acto I: Ural stonecutter Danila searches for the secret to crafting a magical stone flower that captures nature's living beauty. Acto II: He is tempted away by the mystical Mistress of the Copper Mountain into the underworld, leaving behind his grieving fiancée Katerina until she braves the depths to rescue him.\",\"history_and_evolution\":\"Prokofiev's final ballet score, completed shortly before his death in 1953. It draws heavily on Ural folklore collected by Pavel Bazhov, blending traditional folk dance motifs with lyrical neoclassical choreography.\",\"characters\":[\"Danila\",\"Katerina\",\"Mistress of the Copper Mountain\",\"Severian\"],\"key_variations\":[\"Mistress of the Copper Mountain Solo\",\"Ural Folk Dances\"],\"historical_performances\":[{\"year\":1954,\"company\":\"Bolshoi Ballet\",\"theater\":\"Bolshoi Theatre\",\"choreographer\":\"Leonid Lavrovsky\",\"relevance\":\"Marked the posthumous premiere of Prokofiev's final stage masterpiece.\"}],\"prominent_companies\":[{\"name\":\"Bolshoi Ballet\",\"country\":\"Russia\",\"official_url\":\"https://bolshoi.ru\"}],\"multimedia\":{\"cover_image_url\":\"https://commons.wikimedia.org/wiki/Special:FilePath/Stone_Flower_ballet.jpg\",\"europeana_search_term\":\"The Stone Flower Ballet Prokofiev\",\"youtube_query\":\"The Stone Flower Ballet Bolshoi\"}},{\"id\":29,\"title\":\"Mayerlingni\",\"composer\":\"Franz Liszt (orchestrated by John Lanchbery)\",\"original_choreographer\":\"Kenneth MacMillan\",\"premiere_year\":1978,\"premiere_location\":\"Royal Opera House, London\",\"acts\":3,\"synopsis\":\"Acto I: Political tensions surrounding Crown Prince Rudolf of Austria, unhappily married to Princess Stephanie. Acto II: Rudolf spirals into political paranoia, drug addiction, and obsessive affairs, finding a kindred nihilistic spirit in the young teenager Mary Vetsera. Acto III: At the hunting lodge in Mayerling, Rudolf and Mary enter into a desperate suicide pact, culminating in a double gunshot.\",\"history_and_evolution\":\"MacMillan's dark psychological masterpiece explores the historical 1889 Mayerling incident. It demands immense stamina and dramatic intensity from the lead male dancer, featuring multiple complex partnerings.\",\"characters\":[\"Crown Prince Rudolf\",\"Mary Vetsera\",\"Princess Stephanie\",\"Countess Larisch\",\"Mitzi Caspar\"],\"key_variations\":[\"Rudolf and Vetsera Duets\",\"Mitzi Caspar Solo\"],\"historical_performances\":[{\"year\":1978,\"company\":\"The Royal Ballet\",\"theater\":\"Royal Opera House\",\"choreographer\":\"Kenneth MacMillan\",\"relevance\":\"Established a new threshold for psychological darkness and technical complexity in story ballet.\"}],\"prominent_companies\":[{\"name\":\"The Royal Ballet\",\"country\":\"United Kingdom\",\"official_url\":\"https://www.roh.org.uk\"}],\"multimedia\":{\"cover_image_url\":\"https://commons.wikimedia.org/wiki/Special:FilePath/Mayerling_ballet.jpg\",\"europeana_search_term\":\"Mayerling Ballet MacMillan\",\"youtube_query\":\"Mayerling Ballet Royal Opera House\"}},{\"id\":30,\"title\":\"The Winter's Tale\",\"composer\":\"Joby Talbot\",\"original_choreographer\":\"Christopher Wheeldon\",\"premiere_year\":2014,\"premiere_location\":\"Royal Opera House, London\",\"acts\":3,\"synopsis\":\"Acto I: King Leontes of Sicilia is consumed by groundless pathological jealousy, falsely accusing his pregnant wife Hermione of infidelity with his friend Polixenes. Acto II: Perdita, their abandoned infant daughter, grows up in Bohemia and falls in love with Prince Florizel. Acto III: Truth is revealed, the statue of Hermione miraculously comes to life, and the royal family is reconciled.\",\"history_and_evolution\":\"Based on Shakespeare's late romance play. Commissioned as Wheeldon's second full-length narrative ballet for the Royal Ballet, it paired Joby Talbot's evocative contemporary score with fluid theatrical design.\",\"characters\":[\"Leontes\",\"Hermione\",\"Polixenes\",\"Perdita\",\"Florizel\",\"Paulina\"],\"key_variations\":[\"Leontes's Jealousy Solos\",\"Perdita and Florizel Bohemian Pas de Deux\"],\"historical_performances\":[{\"year\":2014,\"company\":\"The Royal Ballet\",\"theater\":\"Royal Opera House\",\"choreographer\":\"Christopher Wheeldon\",\"relevance\":\"A landmark contemporary full-length narrative ballet success of the 21st century.\"}],\"prominent_companies\":[{\"name\":\"The Royal Ballet\",\"country\":\"United Kingdom\",\"official_url\":\"https://www.roh.org.uk\"}],\"multimedia\":{\"cover_image_url\":\"https://commons.wikimedia.org/wiki/Special:FilePath/The_Winters_Tale_ballet.jpg\",\"europeana_search_term\":\"The Winters Tale Ballet Wheeldon\",\"youtube_query\":\"The Winters Tale Ballet Royal Opera House\"}]}"
-}
+[
+  {
+    "id": 16,
+    "title": "Coppelia",
+    "composer": "Léo Delibes",
+    "original_choreographer": "Arthur Saint-Léon",
+    "premiere_year": 1870,
+    "premiere_location": "Paris Opéra, Paris",
+    "acts": 3,
+    "synopsis": "Act I: Franz becomes infatuated with Coppélia, a lifelike mechanical doll sitting on a balcony, angering his fiancée Swanilda. Act II: Swanilda and her friends sneak into toymaker Dr. Coppélius's workshop, discover the doll is wooden, and Swanilda impersonates it. Act III: Reconciliation and marriage of Swanilda and Franz during a village festival celebrating the town's new bell.",
+    "history_and_evolution": "One of the last great comic ballets of the Romantic era, noted for Delibes's pioneering use of leitmotifs for characters. It successfully integrated folk dances like mazurkas and czardas into classical frameworks.",
+    "characters": [
+      "Swanilda",
+      "Franz",
+      "Dr. Coppélius",
+      "Coppélia"
+    ],
+    "key_variations": [
+      "Swanilda's Waltz",
+      "Dawn Variation",
+      "Automaton Dance"
+    ],
+    "historical_performances": [
+      {
+        "year": 1884,
+        "company": "Imperial Ballet",
+        "theater": "Bolshoi Kamenny Theatre",
+        "choreographer": "Marius Petipa",
+        "relevance": "Brought the production to St. Petersburg, ensuring its long-term survival."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "Australian Ballet",
+        "country": "Australia",
+        "official_url": "https://australianballet.com.au"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coppelia_1870.jpg",
+      "europeana_search_term": "Coppelia Ballet",
+      "youtube_query": "Coppelia Ballet full"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Sylvia",
+    "composer": "Léo Delibes",
+    "original_choreographer": "Louis Mérante",
+    "premiere_year": 1876,
+    "premiere_location": "Paris Opéra, Paris",
+    "acts": 3,
+    "synopsis": "Acto I: The nymph Sylvia rejects love, but falls for the shepherd Amyntas, who is subsequently killed. Acto II: Sylvia is imprisoned by the wicked hunter Orion, but escapes with the help of Eros. Acto III: Eros restores Amyntas to life, and Sylvia embraces love under the blessing of Diana.",
+    "history_and_evolution": "Delibes's score was widely praised by Tchaikovsky for its symphonic richness and orchestral innovation. Frederick Ashton created a celebrated neoclassical version in 1952 for the Royal Ballet starring Margot Fonteyn.",
+    "characters": [
+      "Sylvia",
+      "Amyntas",
+      "Eros",
+      "Orion",
+      "Diana"
+    ],
+    "key_variations": [
+      "Sylvia Pizzicato",
+      "Diana's Variation"
+    ],
+    "historical_performances": [
+      {
+        "year": 1952,
+        "company": "The Royal Ballet",
+        "theater": "Royal Opera House",
+        "choreographer": "Frederick Ashton",
+        "relevance": "Revived the neglected masterpiece as a showcase for Margot Fonteyn."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "The Royal Ballet",
+        "country": "United Kingdom",
+        "official_url": "https://www.roh.org.uk"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sylvia_ballet.jpg",
+      "europeana_search_term": "Sylvia Ballet Delibes",
+      "youtube_query": "Sylvia Ballet Ashton Royal Opera House"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Petrushka",
+    "composer": "Igor Stravinsky",
+    "original_choreographer": "Michel Fokine",
+    "premiere_year": 1911,
+    "premiere_location": "Théâtre du Châtelet, Paris",
+    "acts": 4,
+    "synopsis": "Scene I: At a St. Petersburg Shrovetide fair, an old Showman brings three puppet characters to life: Petrushka, the Ballerina, and the Moor. Scene II: Petrushka suffers in his cell from human emotions and unrequited love. Scene III: The Moor woos the Ballerina; Petrushka interrupts and is chased away. Scene IV: During the festival celebrations, the Moor kills Petrushka, whose ghost haunts the Showman.",
+    "history_and_evolution": "A masterwork of modernist ballet that fused Russian folk traditions with complex polytonal music. Nijinsky's portrayal of the puppet Petrushka remains legendary for its tragic intensity.",
+    "characters": [
+      "Petrushka",
+      "The Ballerina",
+      "The Moor",
+      "The Showman"
+    ],
+    "key_variations": [
+      "Petrushka's Russian Dance",
+      "Moor's Dance"
+    ],
+    "historical_performances": [
+      {
+        "year": 1911,
+        "company": "Ballets Russes",
+        "theater": "Théâtre du Châtelet",
+        "choreographer": "Michel Fokine",
+        "relevance": "Redefined character ballet through expressionistic psychological depth."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "Mariinsky Ballet",
+        "country": "Russia",
+        "official_url": "https://www.mariinsky.ru"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Petrushka_1911.jpg",
+      "europeana_search_term": "Petrushka Ballet Stravinsky",
+      "youtube_query": "Petrushka Ballet Stravinsky full"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Daphnis et Chloé",
+    "composer": "Maurice Ravel",
+    "original_choreographer": "Michel Fokine",
+    "premiere_year": 1912,
+    "premiere_location": "Théâtre du Châtelet, Paris",
+    "acts": 1,
+    "synopsis": "Scene I: Daphnis and Chloé express their love in a sacred grove until pirates kidnap Chloé. Scene II: In the pirate stronghold, Chloé performs a captive dance before the chieftain. Scene III: Pan rescues Chloé, reuniting the lovers in a joyful theatrical enactment of the myth of Pan and Syrinx.",
+    "history_and_evolution": "Commissioned by Sergei Diaghilev, Ravel described it as a choreographic symphony. Frederick Ashton created a celebrated 1951 version for the Royal Ballet that remains a benchmark of lyrical pastoral choreography.",
+    "characters": [
+      "Daphnis",
+      "Chloé",
+      "Dorkon",
+      "Bryaxis",
+      "Pan"
+    ],
+    "key_variations": [
+      "Chloé's Dance of the Pirates",
+      "General Dance of the Lovers"
+    ],
+    "historical_performances": [
+      {
+        "year": 1951,
+        "company": "The Royal Ballet",
+        "theater": "Royal Opera House",
+        "choreographer": "Frederick Ashton",
+        "relevance": "Created a defining neoclassical standard for Ravel's lush score."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "The Royal Ballet",
+        "country": "United Kingdom",
+        "official_url": "https://www.roh.org.uk"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Daphnis_et_Chloe.jpg",
+      "europeana_search_term": "Daphnis et Chloe Ballet",
+      "youtube_query": "Daphnis et Chloe Ashton Ballet"
+    }
+  },
+  {
+    "id": 20,
+    "title": "Les Sylphides",
+    "composer": "Frédéric Chopin (orchestrated)",
+    "original_choreographer": "Michel Fokine",
+    "premiere_year": 1909,
+    "premiere_location": "Théâtre du Châtelet, Paris",
+    "acts": 1,
+    "synopsis": "A romantic reverie without a traditional plot. A young poet dressed in white dreams of a nocturnal gathering of sylphs in a moonlit forest, dancing graceful ethereal movements with a principal sylph.",
+    "history_and_evolution": "Originally staged in St. Petersburg in 1908 as 'Chopiniana' before Diaghilev restaged it as 'Les Sylphides' for the Ballets Russes. It established the genre of 'abstract ballet' or 'ballet blanc' in the 20th century.",
+    "characters": [
+      "The Poet",
+      "The Leading Sylph",
+      "Sylphs"
+    ],
+    "key_variations": [
+      "Prelude in A major Solo",
+      "Waltz in C-sharp minor"
+    ],
+    "historical_performances": [
+      {
+        "year": 1909,
+        "company": "Ballets Russes",
+        "theater": "Théâtre du Châtelet",
+        "choreographer": "Michel Fokine",
+        "relevance": "Pioneered the plotless atmospheric ballet format."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "Paris Opera Ballet",
+        "country": "France",
+        "official_url": "https://www.operadeparis.fr"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Les_Sylphides_1909.jpg",
+      "europeana_search_term": "Les Sylphides Ballet Fokine",
+      "youtube_query": "Les Sylphides Ballet full"
+    }
+  },
+  {
+    "id": 21,
+    "title": "The Prodigal Son",
+    "composer": "Sergei Prokofiev",
+    "original_choreographer": "George Balanchine",
+    "premiere_year": 1929,
+    "premiere_location": "Teatro Sarah Bernhardt, Paris",
+    "acts": 1,
+    "synopsis": "Scene I: A rebellious young son leaves his patriarchal home to seek adventure. Scene II: He is robbed, betrayed, and stripped of his dignity by a seductive Siren and her wicked companions. Scene III: Broken and destitute, he crawls back home in repentance, seeking forgiveness from his loving father.",
+    "history_and_evolution": "Balanchine's final creation for the Ballets Russes at age 25. It combined expressionistic athletic movement with Biblical narrative intensity, remaining a cornerstone of dramatic neoclassical repertory.",
+    "characters": [
+      "The Prodigal Son",
+      "The Siren",
+      "The Father",
+      "Companions"
+    ],
+    "key_variations": [
+      "Siren's Variation",
+      "Prodigal's Return Crawl"
+    ],
+    "historical_performances": [
+      {
+        "year": 1929,
+        "company": "Ballets Russes",
+        "theater": "Teatro Sarah Bernhardt",
+        "choreographer": "George Balanchine",
+        "relevance": "Showcased Balanchine's early dramatic genius before his American migration."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "New York City Ballet",
+        "country": "United States",
+        "official_url": "https://www.nycballet.com"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prodigal_Son_Ballet.jpg",
+      "europeana_search_term": "Prodigal Son Ballet Balanchine",
+      "youtube_query": "Prodigal Son Ballet Balanchine NYCB"
+    }
+  },
+  {
+    "id": 22,
+    "title": "Serenade",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "original_choreographer": "George Balanchine",
+    "premiere_year": 1934,
+    "premiere_location": "Percenti Farm, White Plains, New York",
+    "acts": 1,
+    "synopsis": "An abstract neoclassical ballet performed by an all-female corps de ballet that grows to include male dancers. The movements respond directly to the shifting emotional moods of Tchaikovsky's Serenade for Strings, culminating in a tragic parting.",
+    "history_and_evolution": "The first ballet Balanchine created in America after co-founding the School of American Ballet. It famously incorporated real-life rehearsal accidents—such as a student falling or arriving late—into the official choreography.",
+    "characters": [
+      "Principal Dancers and Ensemble (Abstract)"
+    ],
+    "key_variations": [
+      "Waltz Movement Solo",
+      "Elegy Finale"
+    ],
+    "historical_performances": [
+      {
+        "year": 1934,
+        "company": "American Ballet",
+        "theater": "Hartley House, New York",
+        "choreographer": "George Balanchine",
+        "relevance": "First original ballet created by Balanchine in the United States."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "New York City Ballet",
+        "country": "United States",
+        "official_url": "https://www.nycballet.com"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Serenade_Ballet.jpg",
+      "europeana_search_term": "Serenade Ballet Balanchine",
+      "youtube_query": "Serenade Ballet Balanchine full"
+    }
+  },
+  {
+    "id": 23,
+    "title": "Agon",
+    "composer": "Igor Stravinsky",
+    "original_choreographer": "George Balanchine",
+    "premiere_year": 1957,
+    "premiere_location": "New York City Center, New York",
+    "acts": 1,
+    "synopsis": "An abstract ballet for twelve dancers structured as a series of 17th-century court dances (sarabande, galliard, bransle) reinterpreted through sharp, angular 20th-century neoclassical abstraction and serialist twelve-tone music.",
+    "history_and_evolution": "A landmark collaboration between Balanchine and Stravinsky that pushed neoclassical technique into radical modernist territory, featuring innovative partnering and geometric interplay.",
+    "characters": [
+      "Ensemble Cast (12 Dancers)"
+    ],
+    "key_variations": [
+      "Pas de Deux (Stravinsky/Balanchine)",
+      "Bransle Simple"
+    ],
+    "historical_performances": [
+      {
+        "year": 1957,
+        "company": "New York City Ballet",
+        "theater": "New York City Center",
+        "choreographer": "George Balanchine",
+        "relevance": "Redefined modern neoclassical partnering and formalist structure."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "New York City Ballet",
+        "country": "United States",
+        "official_url": "https://www.nycballet.com"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agon_ballet.jpg",
+      "europeana_search_term": "Agon Ballet Balanchine",
+      "youtube_query": "Agon Ballet Balanchine NYCB"
+    }
+  },
+  {
+    "id": 24,
+    "title": "The Miraculous Mandarin",
+    "composer": "Béla Bartók",
+    "original_choreographer": "Endre Granec",
+    "premiere_year": 1926,
+    "premiere_location": "Cologne Opera House, Cologne",
+    "acts": 1,
+    "synopsis": "In a sordid urban underworld, a trio of pimps forces a young girl to lure men in to be robbed. After several clients, a silent, mysterious Mandarin enters. Though stabbed, beaten, and hanged by the criminals, he refuses to die until the girl embraces him out of pity, after which he peacefully expires.",
+    "history_and_evolution": "Bartók's expressionist score and Lengyel's erotic, violent libretto caused censorship scandals across Europe. Kenneth MacMillan's 1981 version for the Royal Ballet is widely praised for its raw theatrical power.",
+    "characters": [
+      "The Mandarin",
+      "The Girl",
+      "The Three Pimps"
+    ],
+    "key_variations": [
+      "Mandarin's Pursuit Solos",
+      "The Girl's Seduction Dance"
+    ],
+    "historical_performances": [
+      {
+        "year": 1981,
+        "company": "The Royal Ballet",
+        "theater": "Edinburgh Festival Theatre",
+        "choreographer": "Kenneth MacMillan",
+        "relevance": "Brought intense psychological drama and brutal realism to British modern ballet."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "The Royal Ballet",
+        "country": "United Kingdom",
+        "official_url": "https://www.roh.org.uk"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Miraculous_Mandarin.jpg",
+      "europeana_search_term": "The Miraculous Mandarin Ballet",
+      "youtube_query": "The Miraculous Mandarin Ballet MacMillan"
+    }
+  },
+  {
+    "id": 25,
+    "title": "Cinderella",
+    "composer": "Sergei Prokofiev",
+    "original_choreographer": "Rostislav Zakharov",
+    "premiere_year": 1945,
+    "premiere_location": "Bolshoi Theatre, Moscow",
+    "acts": 3,
+    "synopsis": "Act I: Cinderella is abused by her stepfamily while dreaming of a grand life. Acto II: With the aid of a Fairy Godmother and seasonal fairies, she attends the royal ball, captures the Prince's heart, but flees at midnight, leaving behind a single glass slipper. Acto III: The Prince searches the kingdom, finds the matching slipper fits Cinderella, and they are joyfully united.",
+    "history_and_evolution": "Composed during World War II, Prokofiev's score combines lyrical melancholy with witty satirical motifs. Frederick Ashton's 1948 version for the Royal Ballet remains an iconic British interpretation.",
+    "characters": [
+      "Cinderella",
+      "The Prince",
+      "Fairy Godmother",
+      "Stepsisters",
+      "Stepmother"
+    ],
+    "key_variations": [
+      "Clock Variation",
+      "Autumn Fairy Solo",
+      "Cinderella's Waltz"
+    ],
+    "historical_performances": [
+      {
+        "year": 1948,
+        "company": "The Royal Ballet",
+        "theater": "Royal Opera House",
+        "choreographer": "Frederick Ashton",
+        "relevance": "Established the quintessential British comic interpretation of Prokofiev's score."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "The Royal Ballet",
+        "country": "United Kingdom",
+        "official_url": "https://www.roh.org.uk"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cinderella_ballet.jpg",
+      "europeana_search_term": "Cinderella Ballet Prokofiev",
+      "youtube_query": "Cinderella Ballet Ashton full"
+    }
+  },
+  {
+    "id": 26,
+    "title": "The Fountain of Bakhchisaray",
+    "composer": "Boris Asafyev",
+    "original_choreographer": "Rostislav Zakharov",
+    "premiere_year": 1934,
+    "premiere_location": "Kirov Theatre, Leningrad",
+    "acts": 4,
+    "synopsis": "Acto I: Crimean Khan Girey raids a Polish castle, killing nobles and capturing the Polish princess Maria. Acto II: In the harem, Girey's former favorite concubine Zarema burns with jealousy over Maria. Acto III: Zarema confronts and murders Maria in her chamber. Acto IV: Stricken with grief, Khan Girey builds a weeping stone fountain of tears in her memory.",
+    "history_and_evolution": "A cornerstone of Soviet dramaballet that prioritized theatrical acting and literary narrative over abstract technical showmanship, based on Alexander Pushkin's poem.",
+    "characters": [
+      "Maria",
+      "Khan Girey",
+      "Zarema",
+      "Waclaw"
+    ],
+    "key_variations": [
+      "Zarema's Solo",
+      "Tartar Dances"
+    ],
+    "historical_performances": [
+      {
+        "year": 1934,
+        "company": "Kirov Ballet",
+        "theater": "Kirov Theatre",
+        "choreographer": "Rostislav Zakharov",
+        "relevance": "Pioneered the Soviet 'dramaballet' style integrating cinematic plot structures."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "Mariinsky Ballet",
+        "country": "Russia",
+        "official_url": "https://www.mariinsky.ru"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fountain_of_Bakhchisaray.jpg",
+      "europeana_search_term": "The Fountain of Bakhchisaray Ballet",
+      "youtube_query": "The Fountain of Bakhchisaray Ballet full"
+    }
+  },
+  {
+    "id": 27,
+    "title": "Spartacusni",
+    "composer": "Aram Khachaturian",
+    "original_choreographer": "Leonid Yakobson",
+    "premiere_year": 1956,
+    "premiere_location": "Kirov Theatre, Leningrad",
+    "acts": 4,
+    "synopsis": "Acto I: The Thracian gladiator Spartacus and his wife Phrygia are captured by Roman forces under Crassus. Acto II: Spartacus incites a massive gladiator revolt against Roman oppression. Acto III: Betrayed and surrounded, Spartacus and his rebel army are defeated by Crassus in a brutal final battle, leading to Spartacus's tragic death.",
+    "history_and_evolution": "Khachaturian's powerful, brass-heavy score provided the backdrop for Yuri Grigorovich's 1968 Bolshoi version, which became legendary for its high-flying athletic heroism and massive male ensemble work.",
+    "characters": [
+      "Spartacus",
+      "Crassus",
+      "Phrygia",
+      "Aegina"
+    ],
+    "key_variations": [
+      "Spartacus and Phrygia Adagio",
+      "Sword Dance of the Gladiators"
+    ],
+    "historical_performances": [
+      {
+        "year": 1968,
+        "company": "Bolshoi Ballet",
+        "theater": "Bolshoi Theatre",
+        "choreographer": "Yuri Grigorovich",
+        "relevance": "Redefined Soviet heroic ballet through powerful male virtuosity and epic scale."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "Bolshoi Ballet",
+        "country": "Russia",
+        "official_url": "https://bolshoi.ru"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Spartacus_ballet.jpg",
+      "europeana_search_term": "Spartacus Ballet Grigorovich",
+      "youtube_query": "Spartacus Ballet Bolshoi full"
+    }
+  },
+  {
+    "id": 28,
+    "title": "The Stone Flower",
+    "composer": "Sergei Prokofiev",
+    "original_choreographer": "Leonid Lavrovsky",
+    "premiere_year": 1954,
+    "premiere_location": "Bolshoi Theatre, Moscow",
+    "acts": 2,
+    "synopsis": "Acto I: Ural stonecutter Danila searches for the secret to crafting a magical stone flower that captures nature's living beauty. Acto II: He is tempted away by the mystical Mistress of the Copper Mountain into the underworld, leaving behind his grieving fiancée Katerina until she braves the depths to rescue him.",
+    "history_and_evolution": "Prokofiev's final ballet score, completed shortly before his death in 1953. It draws heavily on Ural folklore collected by Pavel Bazhov, blending traditional folk dance motifs with lyrical neoclassical choreography.",
+    "characters": [
+      "Danila",
+      "Katerina",
+      "Mistress of the Copper Mountain",
+      "Severian"
+    ],
+    "key_variations": [
+      "Mistress of the Copper Mountain Solo",
+      "Ural Folk Dances"
+    ],
+    "historical_performances": [
+      {
+        "year": 1954,
+        "company": "Bolshoi Ballet",
+        "theater": "Bolshoi Theatre",
+        "choreographer": "Leonid Lavrovsky",
+        "relevance": "Marked the posthumous premiere of Prokofiev's final stage masterpiece."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "Bolshoi Ballet",
+        "country": "Russia",
+        "official_url": "https://bolshoi.ru"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stone_Flower_ballet.jpg",
+      "europeana_search_term": "The Stone Flower Ballet Prokofiev",
+      "youtube_query": "The Stone Flower Ballet Bolshoi"
+    }
+  },
+  {
+    "id": 29,
+    "title": "Mayerlingni",
+    "composer": "Franz Liszt (orchestrated by John Lanchbery)",
+    "original_choreographer": "Kenneth MacMillan",
+    "premiere_year": 1978,
+    "premiere_location": "Royal Opera House, London",
+    "acts": 3,
+    "synopsis": "Acto I: Political tensions surrounding Crown Prince Rudolf of Austria, unhappily married to Princess Stephanie. Acto II: Rudolf spirals into political paranoia, drug addiction, and obsessive affairs, finding a kindred nihilistic spirit in the young teenager Mary Vetsera. Acto III: At the hunting lodge in Mayerling, Rudolf and Mary enter into a desperate suicide pact, culminating in a double gunshot.",
+    "history_and_evolution": "MacMillan's dark psychological masterpiece explores the historical 1889 Mayerling incident. It demands immense stamina and dramatic intensity from the lead male dancer, featuring multiple complex partnerings.",
+    "characters": [
+      "Crown Prince Rudolf",
+      "Mary Vetsera",
+      "Princess Stephanie",
+      "Countess Larisch",
+      "Mitzi Caspar"
+    ],
+    "key_variations": [
+      "Rudolf and Vetsera Duets",
+      "Mitzi Caspar Solo"
+    ],
+    "historical_performances": [
+      {
+        "year": 1978,
+        "company": "The Royal Ballet",
+        "theater": "Royal Opera House",
+        "choreographer": "Kenneth MacMillan",
+        "relevance": "Established a new threshold for psychological darkness and technical complexity in story ballet."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "The Royal Ballet",
+        "country": "United Kingdom",
+        "official_url": "https://www.roh.org.uk"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mayerling_ballet.jpg",
+      "europeana_search_term": "Mayerling Ballet MacMillan",
+      "youtube_query": "Mayerling Ballet Royal Opera House"
+    }
+  },
+  {
+    "id": 30,
+    "title": "The Winter's Tale",
+    "composer": "Joby Talbot",
+    "original_choreographer": "Christopher Wheeldon",
+    "premiere_year": 2014,
+    "premiere_location": "Royal Opera House, London",
+    "acts": 3,
+    "synopsis": "Acto I: King Leontes of Sicilia is consumed by groundless pathological jealousy, falsely accusing his pregnant wife Hermione of infidelity with his friend Polixenes. Acto II: Perdita, their abandoned infant daughter, grows up in Bohemia and falls in love with Prince Florizel. Acto III: Truth is revealed, the statue of Hermione miraculously comes to life, and the royal family is reconciled.",
+    "history_and_evolution": "Based on Shakespeare's late romance play. Commissioned as Wheeldon's second full-length narrative ballet for the Royal Ballet, it paired Joby Talbot's evocative contemporary score with fluid theatrical design.",
+    "characters": [
+      "Leontes",
+      "Hermione",
+      "Polixenes",
+      "Perdita",
+      "Florizel",
+      "Paulina"
+    ],
+    "key_variations": [
+      "Leontes's Jealousy Solos",
+      "Perdita and Florizel Bohemian Pas de Deux"
+    ],
+    "historical_performances": [
+      {
+        "year": 2014,
+        "company": "The Royal Ballet",
+        "theater": "Royal Opera House",
+        "choreographer": "Christopher Wheeldon",
+        "relevance": "A landmark contemporary full-length narrative ballet success of the 21st century."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "The Royal Ballet",
+        "country": "United Kingdom",
+        "official_url": "https://www.roh.org.uk"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Winters_Tale_ballet.jpg",
+      "europeana_search_term": "The Winters Tale Ballet Wheeldon",
+      "youtube_query": "The Winters Tale Ballet Royal Opera House"
+    }
+  }
+]
