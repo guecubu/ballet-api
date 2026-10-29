@@ -1,92 +1,17 @@
 [
-  {
-    "id": 16,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Coppelia_1870.jpg"
-    }
-  },
-  {
-    "id": 17,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Sylvia_Delibes_1876.jpg"
-    }
-  },
-  {
-    "id": 18,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Petrushka_1911_Benois.jpg"
-    }
-  },
-  {
-    "id": 19,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Daphnis_et_Chloe_Bakst_1912.jpg"
-    }
-  },
-  {
-    "id": 20,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Les_Sylphides_1909.jpg"
-    }
-  },
-  {
-    "id": 21,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Prodigal_son_prokofiev.jpg"
-    }
-  },
-  {
-    "id": 22,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Serenade_ballet_balanchine.jpg"
-    }
-  },
-  {
-    "id": 23,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Agon_ballet.jpg"
-    }
-  },
-  {
-    "id": 24,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/The_Miraculous_Mandarin.jpg"
-    }
-  },
-  {
-    "id": 25,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Cinderella_prokofiev_ballet.jpg"
-    }
-  },
-  {
-    "id": 26,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/The_Fountain_of_Bakhchisaray.jpg"
-    }
-  },
-  {
-    "id": 27,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Spartacus_ballet_yuri_grigorovich.jpg"
-    }
-  },
-  {
-    "id": 28,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/The_Stone_Flower_prokofiev.jpg"
-    }
-  },
-  {
-    "id": 29,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Mayerling_ballet.jpg"
-    }
-  },
-  {
-    "id": 30,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/A_Month_in_the_Country_ballet.jpg"
-    }
-  }
+  {"id": 16, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Coppelia_1870.jpg"}},
+  {"id": 17, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Sylvia_Delibes_1876.jpg"}},
+  {"id": 18, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Petrushka_1911_Benois.jpg"}},
+  {"id": 19, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Daphnis_et_Chloe_Bakst_1912.jpg"}},
+  {"id": 20, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Les_Sylphides_1909.jpg"}},
+  {"id": 21, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Prodigal_son_prokofiev.jpg"}},
+  {"id": 22, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Serenade_ballet_balanchine.jpg"}},
+  {"id": 23, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Agon_ballet.jpg"}},
+  {"id": 24, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/The_Miraculous_Mandarin.jpg"}},
+  {"id": 25, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Cinderella_prokofiev_ballet.jpg"}},
+  {"id": 26, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/The_Fountain_of_Bakhchisaray.jpg"}},
+  {"id": 27, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Spartacus_ballet_yuri_grigorovich.jpg"}},
+  {"id": 28, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/The_Stone_Flower_prokofiev.jpg"}},
+  {"id": 29, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Mayerling_ballet.jpg"}},
+  {"id": 30, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/A_Month_in_the_Country_ballet.jpg"}}
 ]

@@ -1,92 +1,17 @@
 [
-  {
-    "id": 1,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Swan_Lake_1895.jpg"
-    }
-  },
-  {
-    "id": 2,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Nutcracker_1892.jpg"
-    }
-  },
-  {
-    "id": 3,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Sleeping_Beauty_1890.jpg"
-    }
-  },
-  {
-    "id": 4,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Giselle_1841.jpg"
-    }
-  },
-  {
-    "id": 5,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Don_Quixote_ballet.jpg"
-    }
-  },
-  {
-    "id": 6,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Coppelia_1870.jpg"
-    }
-  },
-  {
-    "id": 7,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/La_Sylphide_1832.jpg"
-    }
-  },
-  {
-    "id": 8,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Romeo_and_Juliet_ballet.jpg"
-    }
-  },
-  {
-    "id": 9,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/The_Firebird_1910.jpg"
-    }
-  },
-  {
-    "id": 10,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Rite_of_spring_1913.jpg"
-    }
-  },
-  {
-    "id": 11,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Apollo_Balanchine_1928.jpg"
-    }
-  },
-  {
-    "id": 12,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Jewels_ballet.jpg"
-    }
-  },
-  {
-    "id": 13,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Manon_ballet.jpg"
-    }
-  },
-  {
-    "id": 14,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Le_Corsaire_ballet.jpg"
-    }
-  },
-  {
-    "id": 15,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/La_Bayadere_ballet.jpg"
-    }
-  }
+  {"id": 1, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Swan_Lake_1895.jpg"}},
+  {"id": 2, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Nutcracker_1892.jpg"}},
+  {"id": 3, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Sleeping_Beauty_1890.jpg"}},
+  {"id": 4, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Giselle_1841.jpg"}},
+  {"id": 5, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Don_Quixote_ballet.jpg"}},
+  {"id": 6, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Coppelia_1870.jpg"}},
+  {"id": 7, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/La_Sylphide_1832.jpg"}},
+  {"id": 8, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Romeo_and_Juliet_ballet.jpg"}},
+  {"id": 9, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/The_Firebird_1910.jpg"}},
+  {"id": 10, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Rite_of_spring_1913.jpg"}},
+  {"id": 11, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Apollo_Balanchine_1928.jpg"}},
+  {"id": 12, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Jewels_ballet.jpg"}},
+  {"id": 13, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Manon_ballet.jpg"}},
+  {"id": 14, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Le_Corsaire_ballet.jpg"}},
+  {"id": 15, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/La_Bayadere_ballet.jpg"}}
 ]

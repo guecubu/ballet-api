@@ -1,92 +1,17 @@
 [
-  {
-    "id": 31,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Alice_in_Wonderland_ballet_Wheeldon.jpg"
-    }
-  },
-  {
-    "id": 32,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Song_of_the_Earth_macmillan.jpg"
-    }
-  },
-  {
-    "id": 33,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/William_Forsythe_ballet.jpg"
-    }
-  },
-  {
-    "id": 34,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Lady_of_the_Camelias_ballet.jpg"
-    }
-  },
-  {
-    "id": 35,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Carmen_suite_ballet.jpg"
-    }
-  },
-  {
-    "id": 36,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Othello_ballet_limon.jpg"
-    }
-  },
-  {
-    "id": 37,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_Green_Table_jooss.jpg"
-    }
-  },
-  {
-    "id": 38,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cactus_dance_performance.jpg"
-    }
-  },
-  {
-    "id": 39,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Atmospheres_ligeti.jpg"
-    }
-  },
-  {
-    "id": 40,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Chroma_ballet_workspace.jpg"
-    }
-  },
-  {
-    "id": 41,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/The_Taming_of_the_Shrew_cranko.jpg"
-    }
-  },
-  {
-    "id": 42,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Goldberg_Variations_ballet.jpg"
-    }
-  },
-  {
-    "id": 43,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Decadance_naharin.jpg"
-    }
-  },
-  {
-    "id": 44,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/In_the_Middle_Somewhat_Elevated.jpg"
-    }
-  },
-  {
-    "id": 45,
-    "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/The_Creation_of_the_World_ballet.jpg"
-    }
-  }
+  {"id": 31, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Alice_in_Wonderland_ballet_Wheeldon.jpg"}},
+  {"id": 32, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Song_of_the_Earth_macmillan.jpg"}},
+  {"id": 33, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/William_Forsythe_ballet.jpg"}},
+  {"id": 34, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Lady_of_the_Camelias_ballet.jpg"}},
+  {"id": 35, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Carmen_suite_ballet.jpg"}},
+  {"id": 36, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Othello_ballet_limon.jpg"}},
+  {"id": 37, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_Green_Table_jooss.jpg"}},
+  {"id": 38, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cactus_dance_performance.jpg"}},
+  {"id": 39, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Atmospheres_ligeti.jpg"}},
+  {"id": 40, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Chroma_ballet_workspace.jpg"}},
+  {"id": 41, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/The_Taming_of_the_Shrew_cranko.jpg"}},
+  {"id": 42, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Goldberg_Variations_ballet.jpg"}},
+  {"id": 43, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Decadance_naharin.jpg"}},
+  {"id": 44, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/In_the_Middle_Somewhat_Elevated.jpg"}},
+  {"id": 45, "multimedia": {"cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/The_Creation_of_the_World_ballet.jpg"}}
 ]
