@@ -22,8 +22,10 @@ app.get('/api/ballets', (req, res) => {
     id: b.id,
     title: b.title,
     composer: b.composer,
+    original_choreographer: b.original_choreographer,
     premiere_year: b.premiere_year,
-    cover_image: b.multimedia ? b.multimedia.cover_image_url : null
+    cover_image: b.multimedia ? b.multimedia.cover_image_url : null,
+    acts: b.acts
   }));
 
   res.json(limit > 0 ? list.slice(0, limit) : list);
