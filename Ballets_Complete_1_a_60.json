@@ -48,8 +48,8 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Swan_Lake_1895.jpg",
-      "europeana_search_term": "Swan Lake Ballet Tchaikovsky",
+      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Natalya_Kusch%2C_Swan_Lake%2C_Odessa_2020.png",
+      "europeana_search_term": "(\"Swan Lake\" OR \"Lac des cygnes\" OR Schwanensee OR Zwanenmeer) AND (ballet OR ballett OR balet OR Tchaikovsky)",
       "youtube_url": "https://www.youtube.com/results?search_query=Swan+Lake+Ballet+full+performance"
     }
   },
@@ -98,7 +98,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Nutcracker_1892.jpg",
-      "europeana_search_term": "The Nutcracker Ballet Tchaikovsky",
+      "europeana_search_term": "(Nutcracker OR \"Casse-noisette\" OR Nussknacker OR Notenkraker) AND (ballet OR ballett OR balet OR Tchaikovsky)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Nutcracker+Ballet+full+performance"
     }
   },
@@ -147,7 +147,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Sleeping_Beauty_1890.jpg",
-      "europeana_search_term": "The Sleeping Beauty Ballet Petipa",
+      "europeana_search_term": "(\"Sleeping Beauty\" OR \"Belle au bois dormant\" OR Dornröschen OR Doornroosje) AND (ballet OR ballett OR balet OR Tchaikovsky)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Sleeping+Beauty+Ballet+full"
     }
   },
@@ -196,7 +196,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Giselle_1841.jpg",
-      "europeana_search_term": "Giselle Romantic Ballet Adam",
+      "europeana_search_term": "Giselle AND (ballet OR ballett OR balet OR \"Adolphe Adam\")",
       "youtube_url": "https://www.youtube.com/results?search_query=Giselle+Ballet+full+performance"
     }
   },
@@ -246,7 +246,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Don_Quixote_ballet.jpg",
-      "europeana_search_term": "Don Quixote Ballet Minkus",
+      "europeana_search_term": "(\"Don Quixote\" OR \"Don Quichotte\" OR \"Don Quijote\" OR \"Don Quichot\") AND (ballet OR ballett OR Minkus OR Petipa OR Gorsky)",
       "youtube_url": "https://www.youtube.com/results?search_query=Don+Quixote+Ballet+full"
     }
   },
@@ -292,7 +292,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Coppelia_1870.jpg",
-      "europeana_search_term": "Coppelia Ballet",
+      "europeana_search_term": "(Coppélia OR Coppelia)",
       "youtube_url": "https://www.youtube.com/results?search_query=Coppelia+Ballet+full"
     }
   },
@@ -339,7 +339,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/La_Sylphide_1832.jpg",
-      "europeana_search_term": "La Sylphide Bournonville Ballet",
+      "europeana_search_term": "(\"La Sylphide\" OR Sylfiden)",
       "youtube_url": "https://www.youtube.com/results?search_query=La+Sylphide+Bournonville+Ballet+full"
     }
   },
@@ -389,7 +389,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Romeo_and_Juliet_ballet.jpg",
-      "europeana_search_term": "Romeo and Juliet Ballet Prokofiev",
+      "europeana_search_term": "(\"Romeo and Juliet\" OR \"Roméo et Juliette\" OR \"Romeo und Julia\" OR \"Romeo en Julia\") AND (ballet OR ballett OR Prokofiev)",
       "youtube_url": "https://www.youtube.com/results?search_query=Romeo+and+Juliet+MacMillan+Ballet+full"
     }
   },
@@ -435,7 +435,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/The_Firebird_1910.jpg",
-      "europeana_search_term": "The Firebird Ballet Stravinsky",
+      "europeana_search_term": "(Firebird OR \"Oiseau de feu\" OR Feuervogel OR Vuurvogel) AND (ballet OR ballett OR Stravinsky OR Fokine)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Firebird+Stravinsky+Ballet+full"
     }
   },
@@ -480,7 +480,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Rite_of_spring_1913.jpg",
-      "europeana_search_term": "The Rite of Spring Stravinsky Nijinsky",
+      "europeana_search_term": "(\"Rite of Spring\" OR \"Sacre du printemps\" OR Frühlingsopfer) AND (ballet OR ballett OR Nijinsky OR Stravinsky)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Rite+of+Spring+Nijinsky+Joffrey+Ballet"
     }
   },
@@ -527,7 +527,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Apollo_Balanchine_1928.jpg",
-      "europeana_search_term": "Apollo Balanchine Stravinsky Ballet",
+      "europeana_search_term": "(Apollo OR Apollon OR \"Apollon musagète\" OR \"Apollo musagetes\") AND (Balanchine OR \"Ballets Russes\")",
       "youtube_url": "https://www.youtube.com/results?search_query=Apollo+George+Balanchine+NYCB"
     }
   },
@@ -618,7 +618,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Manon_ballet.jpg",
-      "europeana_search_term": "Manon MacMillan Ballet",
+      "europeana_search_term": "Manon AND MacMillan",
       "youtube_url": "https://www.youtube.com/results?search_query=Manon+MacMillan+Royal+Ballet"
     }
   },
@@ -667,7 +667,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Le_Corsaire_ballet.jpg",
-      "europeana_search_term": "Le Corsaire Petipa Ballet",
+      "europeana_search_term": "\"Le Corsaire\" AND (ballet OR ballett OR Petipa OR Mazilier)",
       "youtube_url": "https://www.youtube.com/results?search_query=Le+Corsaire+Pas+de+Deux+full"
     }
   },
@@ -715,7 +715,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/La_Bayadere_ballet.jpg",
-      "europeana_search_term": "La Bayadere Petipa Ballet",
+      "europeana_search_term": "(\"La Bayadère\" OR \"La Bayadere\" OR Bayadere) AND (ballet OR ballett OR Minkus OR Petipa)",
       "youtube_url": "https://www.youtube.com/results?search_query=La+Bayadere+Kingdom+of+the+Shades"
     }
   },
@@ -762,7 +762,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Stuttgart_Opernhaus.jpg",
-      "europeana_search_term": "Onegin Cranko Ballet",
+      "europeana_search_term": "Onegin AND (Cranko OR ballet OR ballett)",
       "youtube_url": "https://www.youtube.com/results?search_query=Onegin+John+Cranko+Ballet"
     }
   },
@@ -808,7 +808,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Sylvia_Delibes_1876.jpg",
-      "europeana_search_term": "Sylvia Ballet Delibes",
+      "europeana_search_term": "Sylvia AND (ballet OR ballett OR Delibes OR Ashton)",
       "youtube_url": "https://www.youtube.com/results?search_query=Sylvia+Ballet+Ashton+Royal+Opera+House"
     }
   },
@@ -853,7 +853,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Petrushka_1911_Benois.jpg",
-      "europeana_search_term": "Petrushka Ballet Stravinsky",
+      "europeana_search_term": "(Petrushka OR Petrouchka OR Petruschka OR Petroesjka) AND (ballet OR ballett OR Stravinsky OR Fokine)",
       "youtube_url": "https://www.youtube.com/results?search_query=Petrushka+Ballet+Stravinsky+full"
     }
   },
@@ -899,7 +899,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Daphnis_et_Chloe_Bakst_1912.jpg",
-      "europeana_search_term": "Daphnis et Chloe Ballet",
+      "europeana_search_term": "(\"Daphnis et Chloé\" OR \"Daphnis et Chloe\" OR \"Daphnis and Chloe\") AND (ballet OR ballett OR Fokine OR Ashton)",
       "youtube_url": "https://www.youtube.com/results?search_query=Daphnis+et+Chloe+Ashton+Ballet"
     }
   },
@@ -943,7 +943,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Les_Sylphides_1909.jpg",
-      "europeana_search_term": "Les Sylphides Ballet Fokine",
+      "europeana_search_term": "(\"Les Sylphides\" OR Chopiniana)",
       "youtube_url": "https://www.youtube.com/results?search_query=Les+Sylphides+Ballet+full"
     }
   },
@@ -988,7 +988,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Prodigal_son_prokofiev.jpg",
-      "europeana_search_term": "Prodigal Son Ballet Balanchine",
+      "europeana_search_term": "(\"Prodigal Son\" OR \"Fils prodigue\" OR \"Verlorene Sohn\") AND (ballet OR ballett OR Balanchine OR Prokofiev)",
       "youtube_url": "https://www.youtube.com/results?search_query=Prodigal+Son+Ballet+Balanchine+NYCB"
     }
   },
@@ -1030,7 +1030,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Serenade_ballet_balanchine.jpg",
-      "europeana_search_term": "Serenade Ballet Balanchine",
+      "europeana_search_term": "Serenade AND Balanchine",
       "youtube_url": "https://www.youtube.com/results?search_query=Serenade+Ballet+Balanchine+full"
     }
   },
@@ -1072,7 +1072,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Agon_ballet.jpg",
-      "europeana_search_term": "Agon Ballet Balanchine",
+      "europeana_search_term": "Agon AND (ballet OR ballett OR Balanchine OR Stravinsky)",
       "youtube_url": "https://www.youtube.com/results?search_query=Agon+Ballet+Balanchine+NYCB"
     }
   },
@@ -1116,7 +1116,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/The_Miraculous_Mandarin.jpg",
-      "europeana_search_term": "The Miraculous Mandarin Ballet",
+      "europeana_search_term": "(\"Miraculous Mandarin\" OR \"Mandarin merveilleux\" OR \"Wunderbare Mandarin\" OR \"Csodálatos mandarin\") AND (ballet OR ballett OR Bartok OR Bartók)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Miraculous+Mandarin+Ballet+MacMillan"
     }
   },
@@ -1163,7 +1163,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Cinderella_prokofiev_ballet.jpg",
-      "europeana_search_term": "Cinderella Ballet Prokofiev",
+      "europeana_search_term": "(Cinderella OR Cendrillon OR Aschenbrödel OR Assepoester) AND (Prokofiev OR Prokofjew OR Prokofjev OR Ashton OR Zakharov)",
       "youtube_url": "https://www.youtube.com/results?search_query=Cinderella+Ballet+Ashton+full"
     }
   },
@@ -1208,7 +1208,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/The_Fountain_of_Bakhchisaray.jpg",
-      "europeana_search_term": "The Fountain of Bakhchisaray Ballet",
+      "europeana_search_term": "(\"Fountain of Bakhchisaray\" OR \"Fountain of Bakhchisarai\" OR \"Fountain of Bakhchissarai\" OR \"Fontaine de Bakhtchissaraï\" OR \"Bachtschissarai\" OR \"Bachčisarajská fontána\") AND (ballet OR ballett OR Asafiev OR Asafyev)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Fountain+of+Bakhchisaray+Ballet+full"
     }
   },
@@ -1253,7 +1253,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Spartacus_ballet_yuri_grigorovich.jpg",
-      "europeana_search_term": "Spartacus Ballet Grigorovich",
+      "europeana_search_term": "(Spartacus OR Spartak) AND (ballet OR ballett OR Khachaturian OR Grigorovich OR Yakobson)",
       "youtube_url": "https://www.youtube.com/results?search_query=Spartacus+Ballet+Bolshoi+full"
     }
   },
@@ -1298,7 +1298,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/The_Stone_Flower_prokofiev.jpg",
-      "europeana_search_term": "The Stone Flower Ballet Prokofiev",
+      "europeana_search_term": "(\"Stone Flower\" OR \"Fleur de pierre\" OR \"Steinerne Blume\") AND (ballet OR ballett OR Prokofiev)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Stone+Flower+Ballet+Bolshoi"
     }
   },
@@ -1391,7 +1391,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/A_Month_in_the_Country_ballet.jpg",
-      "europeana_search_term": "The Winters Tale Ballet Wheeldon",
+      "europeana_search_term": "(\"Winter's Tale\" OR \"Winters Tale\") AND (Wheeldon OR \"Joby Talbot\")",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Winters+Tale+Ballet+Royal+Opera+House"
     }
   },
@@ -1437,7 +1437,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Alice_in_Wonderland_ballet_Wheeldon.jpg",
-      "europeana_search_term": "Alice Adventures in Wonderland Ballet",
+      "europeana_search_term": "(\"Alice's Adventures in Wonderland\" OR \"Alice in Wonderland\" OR \"Alice au pays des merveilles\") AND (Wheeldon OR \"Joby Talbot\")",
       "youtube_url": "https://www.youtube.com/results?search_query=Alice+Adventures+in+Wonderland+Ballet+Wheeldon"
     }
   },
@@ -1479,7 +1479,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Song_of_the_Earth_macmillan.jpg",
-      "europeana_search_term": "William Forsythe Ballet",
+      "europeana_search_term": "\"Vertiginous Thrill of Exactitude\"",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Vertiginous+Thrill+of+Exactitude+Forsythe"
     }
   },
@@ -1568,7 +1568,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Lady_of_the_Camelias_ballet.jpg",
-      "europeana_search_term": "The Lady of the Camellias Ballet",
+      "europeana_search_term": "(\"Lady of the Camellias\" OR \"Lady of the Camelias\" OR Kameliendame OR \"Dame aux camélias\") AND (Neumeier OR ballet OR ballett)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Lady+of+the+Camellias+Ballet+Neumeier"
     }
   },
@@ -1613,7 +1613,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Carmen_suite_ballet.jpg",
-      "europeana_search_term": "Carmen Suite Ballet",
+      "europeana_search_term": "(((\"Carmen Suite\" OR \"Carmen-Suite\") AND (ballet OR ballett OR Alonso OR Plisetskaya OR Shchedrin)) OR (Carmen AND Shchedrin))",
       "youtube_url": "https://www.youtube.com/results?search_query=Carmen+Suite+Maya+Plisetskaya+Bolshoi"
     }
   },
@@ -1658,7 +1658,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Othello_ballet_limon.jpg",
-      "europeana_search_term": "The Moors Pavane Ballet",
+      "europeana_search_term": "(\"Moor's Pavane\" OR \"Moors Pavane\")",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Moors+Pavane+Jos%C3%A9+Lim%C3%B3n+Dance+Company"
     }
   },
@@ -1704,7 +1704,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_Green_Table_jooss.jpg",
-      "europeana_search_term": "The Green Table Kurt Jooss",
+      "europeana_search_term": "(\"Green Table\" OR \"Grüne Tisch\" OR \"Table verte\") AND (Jooss OR ballet OR ballett)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Green+Table+Kurt+Jooss+Ballet"
     }
   },
@@ -2083,7 +2083,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/L'Arlesienne_ballet_petit.jpg",
-      "europeana_search_term": "Forgotten Land Kylian Ballet",
+      "europeana_search_term": "\"Forgotten Land\" AND (Kylian OR Kylián OR ballet)",
       "youtube_url": "https://www.youtube.com/results?search_query=Forgotten+Land+Jiri+Kylian"
     }
   },
@@ -2168,7 +2168,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Requiem_macmillan_ballet.jpg",
-      "europeana_search_term": "Petit Mort Kylian Ballet",
+      "europeana_search_term": "(\"Petite Mort\" OR \"Petit Mort\") AND (Kylian OR Kylián OR ballet OR \"Nederlands Dans Theater\")",
       "youtube_url": "https://www.youtube.com/results?search_query=Petit+Mort+Jiri+Kylian+NDT"
     }
   },
@@ -2430,7 +2430,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Prelude_to_the_Afternoon_of_a_Faun.jpg",
-      "europeana_search_term": "Afternoon of a Faun Robbins",
+      "europeana_search_term": "(\"Afternoon of a Faun\" OR \"Après-midi d'un faune\") AND Robbins",
       "youtube_url": "https://www.youtube.com/results?search_query=Afternoon+of+a+Faun+Jerome+Robbins+NYCB"
     }
   },
@@ -2602,7 +2602,7 @@
     ],
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Verkl%C3%A4rte_Nacht_ballet.jpg",
-      "europeana_search_term": "L Arlesienne Roland Petit Ballet",
+      "europeana_search_term": "(Arlésienne OR Arlesienne) AND \"Roland Petit\"",
       "youtube_url": "https://www.youtube.com/results?search_query=L+Arlesienne+Roland+Petit+Ballet"
     }
   },
