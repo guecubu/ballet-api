@@ -617,7 +617,7 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Manon_ballet.jpg",
+      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/L%27Histoire_de_Manon_%28Prague%2C_20.02.2025%29.jpg",
       "europeana_search_term": "Manon AND MacMillan",
       "youtube_url": "https://www.youtube.com/results?search_query=Manon+MacMillan+Royal+Ballet"
     }
@@ -987,7 +987,7 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Prodigal_son_prokofiev.jpg",
+      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Anton_Dolin.jpg",
       "europeana_search_term": "(\"Prodigal Son\" OR \"Fils prodigue\" OR \"Verlorene Sohn\") AND (ballet OR ballett OR Balanchine OR Prokofiev)",
       "youtube_url": "https://www.youtube.com/results?search_query=Prodigal+Son+Ballet+Balanchine+NYCB"
     }
@@ -1115,9 +1115,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/The_Miraculous_Mandarin.jpg",
+      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/PrMandarinpr.jpg",
       "europeana_search_term": "(\"Miraculous Mandarin\" OR \"Mandarin merveilleux\" OR \"Wunderbare Mandarin\" OR \"Csodálatos mandarin\") AND (ballet OR ballett OR Bartok OR Bartók)",
-      "youtube_url": "https://www.youtube.com/results?search_query=The+Miraculous+Mandarin+Ballet+MacMillan"
+      "youtube_url": "https://www.youtube.com/results?search_query=The+Miraculous+Mandarin+Ballet+MacMillan",
+      "attribution_cover": "Poster for the world premiere of The Miraculous Mandarin, November 27, 1926. Artist: Béla Bartók. Source: Wikimedia Commons, https://commons.wikimedia.org/wiki/File:PrMandarinpr.jpg. Public domain (Public Domain Mark 1.0). Historical premiere poster; 408 × 600 px."
     }
   },
   {
@@ -1390,9 +1391,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/A_Month_in_the_Country_ballet.jpg",
+      "cover_image_url": "https://images.squarespace-cdn.com/content/v1/5e908d9c17c2cb4c19eb659c/1592095099237-RFS05NMKK7MIAMSQNXDZ/The%2BWinter%27s%2BTale%2B%C2%A9%2BROH%3AJohan%2BPersson%2C%2B2014%2BRBwinterstale2014prodJP02221.jpg",
       "europeana_search_term": "(\"Winter's Tale\" OR \"Winters Tale\") AND (Wheeldon OR \"Joby Talbot\")",
-      "youtube_url": "https://www.youtube.com/results?search_query=The+Winters+Tale+Ballet+Royal+Opera+House"
+      "youtube_url": "https://www.youtube.com/results?search_query=The+Winters+Tale+Ballet+Royal+Opera+House",
+      "attribution_cover": "© Royal Opera House / Johan Persson, 2014. Photograph of The Winter’s Tale (The Royal Ballet), published by Christopher Wheeldon. Source: https://www.selvedge.org/blogs/selvedge/the-royal-ballet-the-winter-s-tale. Reproduction rights have not been verified; included for this restricted-access educational project."
     }
   },
   {
@@ -1436,7 +1438,7 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Alice_in_Wonderland_ballet_Wheeldon.jpg",
+      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KC_Ballet_ALICE_120411_048_%2813221093965%29.jpg",
       "europeana_search_term": "(\"Alice's Adventures in Wonderland\" OR \"Alice in Wonderland\" OR \"Alice au pays des merveilles\") AND (Wheeldon OR \"Joby Talbot\")",
       "youtube_url": "https://www.youtube.com/results?search_query=Alice+Adventures+in+Wonderland+Ballet+Wheeldon"
     }
@@ -1520,9 +1522,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/William_Forsythe_ballet.jpg",
+      "cover_image_url": "https://cndanza.inaem.gob.es/wp-content/uploads/2020/05/IN-THE-MIDDLE-PORTADA-1800x788.jpg",
       "europeana_search_term": "In the Middle Somewhat Elevated",
-      "youtube_url": "https://www.youtube.com/results?search_query=In+the+Middle+Somewhat+Elevated+Forsythe"
+      "youtube_url": "https://www.youtube.com/results?search_query=In+the+Middle+Somewhat+Elevated+Forsythe",
+      "attribution_cover": "Photograph by Jesús Vallinas. Noëllie Conjeaud and Esteban Berlanga in William Forsythe’s In the Middle, Somewhat Elevated. Source: Compañía Nacional de Danza (INAEM), official repertoire page: https://cndanza.inaem.gob.es/en/repertoire/in-the-middle-somewhat-elevated/. The image is published by the CND; no explicit reuse licence has been identified. Included with attribution for this restricted educational project; attribution does not constitute permission. Landscape image; central crop retains the partnering dancers."
     }
   },
   {
@@ -1703,9 +1706,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_Green_Table_jooss.jpg",
+      "cover_image_url": "https://sc-brb.transforms.svdcdn.com/production/1.-Shows/The-Green-Table/Scanner_20250123_192001_0002.jpg?auto=format&dm=1774532700&fill=solid&fill-color=ffffff&fit=fill&h=720&q=100&s=4c30af6a80a829934001c73a61776e4f&w=1128",
       "europeana_search_term": "(\"Green Table\" OR \"Grüne Tisch\" OR \"Table verte\") AND (Jooss OR ballet OR ballett)",
-      "youtube_url": "https://www.youtube.com/results?search_query=The+Green+Table+Kurt+Jooss+Ballet"
+      "youtube_url": "https://www.youtube.com/results?search_query=The+Green+Table+Kurt+Jooss+Ballet",
+      "attribution_cover": "Photograph by Leslie E. Spatt. Joseph Cipolla as Death in The Green Table (Birmingham Royal Ballet, 1992). Source: Birmingham Royal Ballet, 20th-Century Masterpieces photo gallery. No open reuse licence has been identified; included with attribution for this restricted educational project. Attribution does not constitute permission."
     }
   },
   {
@@ -1746,9 +1750,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cactus_dance_performance.jpg",
+      "cover_image_url": "https://www.ndt.nl/content/uploads/2022/10/CACTI-2022-%C2%A9Rahi-Rezvani_print_8-810x1440.jpg?t=d17be793e6ec2173e1a48ddbb7564bbd",
       "europeana_search_term": "Cacti Ballet Alexander Ekman",
-      "youtube_url": "https://www.youtube.com/results?search_query=Cacti+Alexander+Ekman+Nederlands+Dans+Theater"
+      "youtube_url": "https://www.youtube.com/results?search_query=Cacti+Alexander+Ekman+Nederlands+Dans+Theater",
+      "attribution_cover": "Photograph by Rahi Rezvani. Cacti (Alexander Ekman), Nederlands Dans Theater. Sources: https://www.ndt.nl/en/join/education/schools/dansapps/cacti-app/ and the official NDT photo archive. Portrait image, 810 × 1440 px. All rights reserved; used with attribution in this restricted-access educational project. No explicit reuse licence has been identified."
     }
   },
   {
@@ -1788,9 +1793,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Atmospheres_ligeti.jpg",
+      "cover_image_url": "https://images.squarespace-cdn.com/content/v1/5e908d9c17c2cb4c19eb659c/1594322912218-YGUYX30V7EYB43YPJLJL/7b689cd2ee6363a890fdc4aafaa6143b.jpg",
       "europeana_search_term": "Polyphonia Ballet Wheeldon",
-      "youtube_url": "https://www.youtube.com/results?search_query=Polyphonia+Christopher+Wheeldon+New+York+City+Ballet"
+      "youtube_url": "https://www.youtube.com/results?search_query=Polyphonia+Christopher+Wheeldon+New+York+City+Ballet",
+      "attribution_cover": "Source: Christopher Wheeldon’s official Polyphonia gallery. The photographer is not identified on the page. Photograph of a pair of dancers in a lift, with a portrait composition. Reproduction rights are not specified; included with source attribution for this restricted-access educational project. Source: https://christopherwheeldon.com/polyphonia"
     }
   },
   {
@@ -1830,9 +1836,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Chroma_ballet_workspace.jpg",
+      "cover_image_url": "https://waynemcgregor.com/assets/2Work/Chroma/_1455x825_crop_center-center_75/Chroma_carousel_JohanPersson_production3.jpg",
       "europeana_search_term": "Chroma Ballet Wayne McGregor",
-      "youtube_url": "https://www.youtube.com/results?search_query=Chroma+Wayne+McGregor+Royal+Ballet"
+      "youtube_url": "https://www.youtube.com/results?search_query=Chroma+Wayne+McGregor+Royal+Ballet",
+      "attribution_cover": "Photograph by Johan Persson. The Royal Ballet production (2006). Source: Studio Wayne McGregor, official Chroma page. Included for educational use in this project; all rights reserved, and no open licence has been identified."
     }
   },
   {
@@ -1872,9 +1879,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/The_Taming_of_the_Shrew_cranko.jpg",
+      "cover_image_url": "https://images.squarespace-cdn.com/content/v1/5e908d9c17c2cb4c19eb659c/1593525222366-BQROXW9IIUHXNJOCET1H/Triple%2BBill-RB-7-05-19-ROH-947.jpg",
       "europeana_search_term": "Within the Golden Hour Ballet",
-      "youtube_url": "https://www.youtube.com/results?search_query=Within+the+Golden+Hour+San+Francisco+Ballet"
+      "youtube_url": "https://www.youtube.com/results?search_query=Within+the+Golden+Hour+San+Francisco+Ballet",
+      "attribution_cover": "Photograph by Tristram Kenton. © Royal Opera House (2019). Source: Christopher Wheeldon’s official Within the Golden Hour gallery. Included for educational use in this project; all rights reserved, and no open licence has been identified."
     }
   },
   {
@@ -1916,7 +1924,8 @@
     "multimedia": {
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Artifact_Suite%2C_choreografia_William_Forsythe%2C_Polski_Balet_Narodowy%2C_fot._Ewa_Krasucka_TW-ON.jpg",
       "europeana_search_term": "Artifact Suite Forsythe",
-      "youtube_url": "https://www.youtube.com/results?search_query=Artifact+Suite+William+Forsythe"
+      "youtube_url": "https://www.youtube.com/results?search_query=Artifact+Suite+William+Forsythe",
+      "attribution_cover": "Photograph by Ewa Krasucka / Polski Balet Narodowy. Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)."
     }
   },
   {
@@ -1998,9 +2007,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/In_the_Middle_Somewhat_Elevated.jpg",
+      "cover_image_url": "https://res.cloudinary.com/opera-national-de-paris/image/upload/w_768/f_auto/v1/user_photos/j6e9peysxdmgd1ya5gzn?_a=E",
       "europeana_search_term": "Blake Works I Forsythe",
-      "youtube_url": "https://www.youtube.com/results?search_query=Blake+Works+I+William+Forsythe+Paris+Opera"
+      "youtube_url": "https://www.youtube.com/results?search_query=Blake+Works+I+William+Forsythe+Paris+Opera",
+      "attribution_cover": "Photograph by Ann Ray / Opéra national de Paris. Blake Works I (2019/20 season). Source: Opéra national de Paris, official production gallery. No open reuse licence has been identified; included with attribution for this restricted educational project. Attribution does not constitute permission."
     }
   },
   {
@@ -2040,9 +2050,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/The_Creation_of_the_World_ballet.jpg",
+      "cover_image_url": "https://www.jirikylian.com/stills/theatre/006%20Jiri%20Kylian%20-%20Symphony%20in%20D.jpg",
       "europeana_search_term": "Symphony in D Kylian",
-      "youtube_url": "https://www.youtube.com/results?search_query=Symphony+in+D+Jiri+Kylian+Stuttgart+Ballet"
+      "youtube_url": "https://www.youtube.com/results?search_query=Symphony+in+D+Jiri+Kylian+Stuttgart+Ballet",
+      "attribution_cover": "Photograph by Jorge Fatauros. Nederlands Dans Theater in Jiří Kylián’s Symphony in D (1976). Source: Jiří Kylián, official creations archive: https://www.jirikylian.com/creations/theatre/symphony_in_d/. The official archive identifies the still and photographer; no explicit reuse licence has been identified. Included with attribution for this restricted educational project; attribution does not constitute permission."
     }
   },
   {
@@ -2082,9 +2093,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/L'Arlesienne_ballet_petit.jpg",
+      "cover_image_url": "https://cndanza.inaem.gob.es/wp-content/uploads/2020/05/Forgotten-Land-3-1576x1800.jpg",
       "europeana_search_term": "\"Forgotten Land\" AND (Kylian OR Kylián OR ballet)",
-      "youtube_url": "https://www.youtube.com/results?search_query=Forgotten+Land+Jiri+Kylian"
+      "youtube_url": "https://www.youtube.com/results?search_query=Forgotten+Land+Jiri+Kylian",
+      "attribution_cover": "Photograph by Fernando Marcos / Compañía Nacional de Danza (INAEM). Source: https://cndanza.inaem.gob.es/en/repertoire/forgotten-land/. Reproduction rights have not been verified; image used for this restricted-access educational project."
     }
   },
   {
@@ -2124,9 +2136,15 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Le_Jeune_Homme_et_la_Mort.jpg",
+      "cover_image_url": "https://cndanza.inaem.gob.es/wp-content/uploads/2022/09/Bella-Figura-2.jpg",
       "europeana_search_term": "Bella Figura Kylian Ballet",
-      "youtube_url": "https://www.youtube.com/results?search_query=Bella+Figura+Jiri+Kylian+NDT"
+      "youtube_url": "https://www.youtube.com/results?search_query=Bella+Figura+Jiri+Kylian+NDT",
+      "attribution_cover": {
+        "credit": "Photograph by Alba Muriel; dancers: Kayoko Everhart and Sara Fernández.",
+        "source": "Compañía Nacional de Danza — Bella Figura repertoire",
+        "source_url": "https://cndanza.inaem.gob.es/repertorio/bella-figura/",
+        "rights": "Photograph published by Compañía Nacional de Danza. No open licence or explicit reuse permission has been identified. Restricted educational use is the user’s decision; attribution does not constitute permission."
+      }
     }
   },
   {
@@ -2209,9 +2227,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Les_Noces_stravinsky_bronislava.jpg",
+      "cover_image_url": "https://cndanza.inaem.gob.es/wp-content/uploads/2020/05/SINFONIA-DE-LOS-SALMOS-1-1800x1233.jpg",
       "europeana_search_term": "Symphony of Psalms Kylian",
-      "youtube_url": "https://www.youtube.com/results?search_query=Symphony+of+Psalms+Jiri+Kylian"
+      "youtube_url": "https://www.youtube.com/results?search_query=Symphony+of+Psalms+Jiri+Kylian",
+      "attribution_cover": "Photograph by Fernando Marcos / Compañía Nacional de Danza (INAEM). Source: https://cndanza.inaem.gob.es/repertorio/sinfonia-de-los-salmos/. Image published without an open licence; attribution is provided for this restricted-access educational project. Reproduction rights have not been verified."
     }
   },
   {
@@ -2254,9 +2273,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/In_the_Night_robins.jpg",
+      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Todd_Bolender_in_The_Concert_%281960%29.jpg",
       "europeana_search_term": "The Concert Jerome Robbins Ballet",
-      "youtube_url": "https://www.youtube.com/results?search_query=The+Concert+Jerome+Robbins+NYCB"
+      "youtube_url": "https://www.youtube.com/results?search_query=The+Concert+Jerome+Robbins+NYCB",
+      "attribution_cover": "Photographer unknown. Todd Bolender in The Concert (1960). Source: NYPL Digital Collections, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Todd_Bolender_in_The_Concert_(1960).jpg). Wikimedia Commons identifies the image as public domain in the United States because it was published without a copyright notice; this does not by itself establish public-domain status in Spain/the EU. Intended use: restricted-access educational material."
     }
   },
   {
@@ -2296,9 +2316,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Dances_at_a_Gathering_Royal_Ballet_2008.jpg",
+      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Luca_Acri%2C_Federico_Bonelli%2C_ROH%2C_Dances_at_a_Gathering.png",
       "europeana_search_term": "Dances at a Gathering Robbins",
-      "youtube_url": "https://www.youtube.com/results?search_query=Dances+at+a+Gathering+Jerome+Robbins+NYCB"
+      "youtube_url": "https://www.youtube.com/results?search_query=Dances+at+a+Gathering+Jerome+Robbins+NYCB",
+      "attribution_cover": "Photograph by Ninnanonna,co. Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)."
     }
   },
   {
@@ -2341,9 +2362,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/West_Side_Story_ballet.jpg",
+      "cover_image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2017/01/13/56acd904-d53e-4fac-8048-301eeacb0f6a/thumbnail/1240x902/ab2324b4c262b183290d80a07226ecdf/martha-swope-dybbuk-patricia-mcbride-helgi-tomasson-2.jpg",
       "europeana_search_term": "The Dybbuk Ballet Bernstein Robbins",
-      "youtube_url": "https://www.youtube.com/results?search_query=The+Dybbuk+Jerome+Robbins+Ballet"
+      "youtube_url": "https://www.youtube.com/results?search_query=The+Dybbuk+Jerome+Robbins+Ballet",
+      "attribution_cover": "Photograph by Martha Swope. Patricia McBride and Helgi Tomasson in Dybbuk (Jerome Robbins), New York City Ballet, 1974. Source: Martha Swope Collection / New York Public Library for the Performing Arts, published by CBS News: https://www.cbsnews.com/pictures/dance-photographer-martha-swope-1928-2017/. NYPL states that it holds or manages the rights; no open licence has been identified. Included with attribution for this restricted-access educational project; attribution does not constitute permission."
     }
   },
   {
@@ -2429,7 +2451,7 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Faun_left%2C_dancing_maenad_right%2C_from_Nijinsky_%22L%27Apres-midi_d%27un_Faune%22%2C_1912.jpg",
+      "cover_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Fran%C3%A7oise_Foliot_-_Nijinski_-_Le_Pr%C3%A9lude_%C3%A0_l%27Apr%C3%A8s-midi_d%27un_faune.jpg/500px-Fran%C3%A7oise_Foliot_-_Nijinski_-_Le_Pr%C3%A9lude_%C3%A0_l%27Apr%C3%A8s-midi_d%27un_faune.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
       "europeana_search_term": "(\"Afternoon of a Faun\" OR \"Après-midi d'un faune\") AND Robbins",
       "youtube_url": "https://www.youtube.com/results?search_query=Afternoon+of+a+Faun+Jerome+Robbins+NYCB"
     }
@@ -2471,9 +2493,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Einstein_on_the_Beach_glass.jpg",
+      "cover_image_url": "https://static.wixstatic.com/media/08def6_442d3811904e4396b42cf87db4a707bf~mv2.jpg/v1/fill/w_763%2Ch_1000%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01/08def6_442d3811904e4396b42cf87db4a707bf~mv2.jpg",
       "europeana_search_term": "Glass Pieces Jerome Robbins",
-      "youtube_url": "https://www.youtube.com/results?search_query=Glass+Pieces+Jerome+Robbins+NYCB"
+      "youtube_url": "https://www.youtube.com/results?search_query=Glass+Pieces+Jerome+Robbins+NYCB",
+      "attribution_cover": "Photograph by Martha Swope, 1983. Bart Cook and Maria Calegari in Glass Pieces (New York City Ballet). Source: Immortal Icons of Dance, https://www.immortaliconsofdance.com/post/nycb-vol-15-no-3-glass-pieces. The page does not specify a reuse licence; image included with attribution for this restricted-access educational project. Reproduction rights have not been verified."
     }
   },
   {
@@ -2513,9 +2536,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Liebeslieder_Walzer_balanchine.jpg",
+      "cover_image_url": "https://res.cloudinary.com/new-york-city-ballet/image/upload/f_auto/q_auto/v1579693679/legacy/imported/liebeslieder-walzer-key?_a=BAAAV6DQ",
       "europeana_search_term": "Liebeslieder Walzer Balanchine",
-      "youtube_url": "https://www.youtube.com/results?search_query=Liebeslieder+Walzer+George+Balanchine"
+      "youtube_url": "https://www.youtube.com/results?search_query=Liebeslieder+Walzer+George+Balanchine",
+      "attribution_cover": "Photograph: New York City Ballet; production photograph published on the official Liebeslieder Walzer repertoire page. Source: https://www.nycballet.com/discover/ballet-repertory/liebeslieder-walzer. The page credits production photography © Erin Baiano and Paul Kolnik. All rights reserved; included with attribution for this restricted-access educational project, with no explicit reuse licence identified."
     }
   },
   {
@@ -2557,9 +2581,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Enigma_Variations_ballet.jpg",
+      "cover_image_url": "https://res.cloudinary.com/new-york-city-ballet/image/upload/c_fill%2Cg_auto%2Ch_700%2Cw_800/f_auto/q_auto/v1570029602/placeholders/union-jack?_a=BAAAV6DQ",
       "europeana_search_term": "Union Jack Ballet Balanchine",
-      "youtube_url": "https://www.youtube.com/results?search_query=Union+Jack+George+Balanchine+NYCB"
+      "youtube_url": "https://www.youtube.com/results?search_query=Union+Jack+George+Balanchine+NYCB",
+      "attribution_cover": "Official New York City Ballet production photograph of George Balanchine’s Union Jack, showing the semaphore-flag finale. Source: New York City Ballet, official repertory page: https://www.nycballet.com/discover/ballet-repertory/union-jack/. The page credits performance photography to Erin Baiano and Paul Kolnik but does not identify the photographer of this individual image. No explicit reuse licence has been identified. Included with attribution for this restricted educational project; attribution does not constitute permission."
     }
   },
   {
@@ -2601,9 +2626,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Verkl%C3%A4rte_Nacht_ballet.jpg",
+      "cover_image_url": "https://www.nbs.or.jp/stages/2017/20ballet/images/p01.png",
       "europeana_search_term": "(Arlésienne OR Arlesienne) AND \"Roland Petit\"",
-      "youtube_url": "https://www.youtube.com/results?search_query=L+Arlesienne+Roland+Petit+Ballet"
+      "youtube_url": "https://www.youtube.com/results?search_query=L+Arlesienne+Roland+Petit+Ballet",
+      "attribution_cover": "Photograph by Laura Ferrari. The Tokyo Ballet in Roland Petit’s L’Arlésienne (2017). Source: NBS / Japan Performing Arts Foundation, official Tokyo Ballet premiere programme: https://www.nbs.or.jp/english/2017/05/. The source identifies the photographer; no explicit reuse licence has been identified. Included with attribution for this restricted educational project; attribution does not constitute permission."
     }
   },
   {
@@ -2643,9 +2669,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Symphony_in_Three_Movements_ballet.jpg",
+      "cover_image_url": "https://national.ballet.ca/media/1wrjwjnn/nb2627_svc_gallery_6.jpg?height=563&v=1dc969074f0d6f0&width=1000",
       "europeana_search_term": "Stravinsky Violin Concerto Balanchine",
-      "youtube_url": "https://www.youtube.com/results?search_query=Stravinsky+Violin+Concerto+George+Balanchine"
+      "youtube_url": "https://www.youtube.com/results?search_query=Stravinsky+Violin+Concerto+George+Balanchine",
+      "attribution_cover": "Photograph by Bruce Zinger. Sonia Rodriguez and Nehemiah Kish in Stravinsky Violin Concerto (2004). Source: The National Ballet of Canada, Echoes of Stravinsky production gallery. No open reuse licence has been identified; included with attribution for this restricted educational project. Attribution does not constitute permission."
     }
   },
   {
@@ -2685,9 +2712,10 @@
       }
     ],
     "multimedia": {
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Concerto_barocco_balanchine.jpg",
+      "cover_image_url": "https://www.sarasotaballet.org/app/uploads/2024/08/G61A1099-coopy.jpg",
       "europeana_search_term": "Divertimento No 15 Balanchine",
-      "youtube_url": "https://www.youtube.com/results?search_query=Divertimento+No+15+George+Balanchine+NYCB"
+      "youtube_url": "https://www.youtube.com/results?search_query=Divertimento+No+15+George+Balanchine+NYCB",
+      "attribution_cover": "Photograph by Frank Atura. The Sarasota Ballet performing George Balanchine's Divertimento No. 15. Source: The Sarasota Ballet, Divertimento No. 15 repertoire page. No open reuse licence has been identified; included with attribution for this restricted educational project. Attribution does not constitute permission."
     }
   }
 ]
