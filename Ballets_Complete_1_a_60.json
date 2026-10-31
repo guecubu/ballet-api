@@ -2959,5 +2959,341 @@
       "youtube_url": "https://www.youtube.com/results?search_query=The+Flames+of+Paris+Vainonen+Ratmansky+full+ballet",
       "attribution_cover": "Production photograph of The Flames of Paris at the Mariinsky Theatre. Source: Mariinsky Theatre, official performance page: https://www.mariinsky.ru/playbill/playbill/2026/9/27/2_2000/. The source page does not identify the photographer or state an open reuse licence. Included with attribution for this restricted educational project at the user’s discretion; attribution does not constitute permission."
     }
+  },
+  {
+    "id": 64,
+    "title": "Diana and Actaeon Pas de Deux",
+    "style": "Classical",
+    "difficulty_level": "Virtuoso",
+    "epoch_period": "20th Century",
+    "composer": "Riccardo Drigo (music associated with the later pas de deux version)",
+    "original_choreographer": "Marius Petipa; revised and popularized as a pas de deux by Agrippina Vaganova",
+    "premiere_year": 1935,
+    "premiere_location": "Kirov Theatre (Mariinsky Theatre), Leningrad, Soviet Union",
+    "acts": 1,
+    "synopsis": "Diana, the Roman goddess of the hunt, and Actaeon, a mortal hunter, meet in a mythological woodland setting. In the traditional myth, Actaeon accidentally sees Diana bathing and is transformed into a stag, then killed by his own hounds. The celebrated Vaganova pas de deux is primarily a virtuoso dance showcase for a ballerina and danseur; it reshapes the mythological encounter into an elegant, flirtatious duet rather than presenting the full tragic episode.",
+    "history_and_evolution": "The work performed today has a layered history and should not be treated as an independent full-length ballet. Its choreographic ancestry is associated with Marius Petipa's Pas de Diane, a divertissement connected with his revival of Le Roi Candaule. The original material was a pas de trois, while Agrippina Vaganova reworked it into the familiar pas de deux for the Kirov Ballet's 1935 production of La Esmeralda. The modern version became an international competition and gala favourite because of its demanding balances, batterie, turns, and bravura partnering. Sources differ on the precise early history and musical origins of the divertissement; the familiar version is associated with Riccardo Drigo's music.",
+    "characters": [
+      "Diana (Diane), Goddess of the Hunt",
+      "Actaeon, the Hunter"
+    ],
+    "key_variations": [
+      "Diana's Variation",
+      "Actaeon's Variation",
+      "Diana and Actaeon Coda"
+    ],
+    "historical_performances": [
+      {
+        "year": 1935,
+        "company": "Kirov Ballet",
+        "theater": "Kirov Theatre, Leningrad",
+        "choreographer": "Agrippina Vaganova, after Marius Petipa",
+        "relevance": "Vaganova's reworking established the familiar pas de deux form associated with La Esmeralda."
+      },
+      {
+        "year": 1991,
+        "company": "The Royal Ballet",
+        "theater": "Her Majesty's Theatre, London",
+        "choreographer": "Agrippina Vaganova, after Marius Petipa",
+        "relevance": "The Royal Ballet's company premiere brought the virtuoso duet into its repertory."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "Mariinsky Ballet",
+        "country": "Russia",
+        "official_url": "https://www.mariinsky.ru"
+      },
+      {
+        "name": "The Royal Ballet",
+        "country": "United Kingdom",
+        "official_url": "https://www.rbo.org.uk"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": null,
+      "europeana_search_term": "(\"Diana and Actaeon\" OR \"Diane et Actéon\" OR \"Pas de Diane\") AND (ballet OR Petipa OR Vaganova OR Drigo)",
+      "youtube_url": "https://www.youtube.com/results?search_query=Diana+and+Actaeon+Pas+de+Deux+ballet",
+      "attribution_cover": null
+    }
+  },
+  {
+    "id": 65,
+    "title": "The Wayward Daughter (La Fille mal gardée)",
+    "style": "Classical / Comic",
+    "difficulty_level": "Advanced",
+    "epoch_period": "18th Century",
+    "composer": "Ferdinand Hérold (1828 score; arranged by John Lanchbery for Frederick Ashton's 1960 production)",
+    "original_choreographer": "Jean Dauberval",
+    "premiere_year": 1789,
+    "premiere_location": "Grand Théâtre de Bordeaux, Bordeaux, France",
+    "acts": 2,
+    "synopsis": "Lise, the daughter of the prosperous widow Simone, loves the young farmer Colas. Simone wants her daughter to marry Alain, the awkward son of a wealthy vineyard owner, and tries to keep the young couple apart. Lise and Colas repeatedly find ways to meet, despite Simone's watchful eye. When the families arrange a formal marriage contract between Lise and Alain, the lovers manage to outwit the adults. Simone eventually discovers Lise and Colas together, but the couple's devotion wins her reluctant consent and they are united.",
+    "history_and_evolution": "One of the oldest ballets still regularly performed, La Fille mal gardée began with Jean Dauberval's production in Bordeaux on 1 July 1789, originally presented under the title Le ballet de la paille, ou Il n'est qu'un pas du mal au bien. The work passed through several choreographic and musical revisions. Jean-Pierre Aumer's 1828 Paris version introduced Ferdinand Hérold's score, while Peter Ludwig Hertel composed a different score for Paul Taglioni's 1864 Berlin version. The Imperial Russian tradition included a 1885 Mariinsky staging by Lev Ivanov and Marius Petipa to Hertel's music. Frederick Ashton created the best-known modern production for The Royal Ballet in 1960, using Hérold's music freely adapted and arranged by John Lanchbery. Its English title is commonly given as The Wayward Daughter.",
+    "characters": [
+      "Lise",
+      "Colas",
+      "Widow Simone",
+      "Alain",
+      "Thomas (Alain's Father)",
+      "The Notary",
+      "The Villagers"
+    ],
+    "key_variations": [
+      "Lise's Fanny Elssler Pas de Deux",
+      "Colas's Variation",
+      "Lise's Ribbon Dance",
+      "Widow Simone's Clog Dance",
+      "The Maypole Dance"
+    ],
+    "historical_performances": [
+      {
+        "year": 1789,
+        "company": "Original Bordeaux company",
+        "theater": "Grand Théâtre de Bordeaux, Bordeaux",
+        "choreographer": "Jean Dauberval",
+        "relevance": "World premiere of the ballet, originally titled Le ballet de la paille, ou Il n'est qu'un pas du mal au bien."
+      },
+      {
+        "year": 1885,
+        "company": "Imperial Ballet",
+        "theater": "Imperial Mariinsky Theatre, Saint Petersburg",
+        "choreographer": "Lev Ivanov and Marius Petipa, after Dauberval and Aumer",
+        "relevance": "Established an important Russian staging to Peter Ludwig Hertel's score."
+      },
+      {
+        "year": 1960,
+        "company": "The Royal Ballet",
+        "theater": "Royal Opera House, London",
+        "choreographer": "Frederick Ashton",
+        "relevance": "Created the celebrated production that became a signature work of The Royal Ballet."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "The Royal Ballet",
+        "country": "United Kingdom",
+        "official_url": "https://www.rbo.org.uk"
+      },
+      {
+        "name": "Paris Opera Ballet",
+        "country": "France",
+        "official_url": "https://www.operadeparis.fr"
+      },
+      {
+        "name": "Mariinsky Ballet",
+        "country": "Russia",
+        "official_url": "https://www.mariinsky.ru"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": null,
+      "europeana_search_term": "(\"La Fille mal gardée\" OR \"The Wayward Daughter\" OR \"The Poorly Guarded Girl\") AND (Dauberval OR Ashton OR ballet)",
+      "youtube_url": "https://www.youtube.com/results?search_query=La+Fille+mal+gardee+Frederick+Ashton+Royal+Ballet",
+      "attribution_cover": null
+    }
+  },
+  {
+    "id": 66,
+    "title": "Harlequinade (The Millions of Harlequin)",
+    "style": "Classical / Comic",
+    "difficulty_level": "Advanced",
+    "epoch_period": "Early 20th Century",
+    "composer": "Riccardo Drigo",
+    "original_choreographer": "Marius Petipa",
+    "premiere_year": 1900,
+    "premiere_location": "Imperial Theatre of the Hermitage, Saint Petersburg, Russian Empire",
+    "acts": 2,
+    "synopsis": "Columbine, the daughter of Cassandre, is in love with Harlequin, but her father intends her to marry the wealthy and elderly Léandre. Cassandre and his servant Pierrot try to keep the lovers apart, while Pierrot's wife, Pierrette, secretly helps them. Harlequin repeatedly escapes their attempts to catch him. The Good Fairy finally gives Harlequin a magical slapstick that grants his wishes, allowing him to overcome Cassandre's opposition and marry Columbine.",
+    "history_and_evolution": "Harlequinade, also known by its French title Le Million d'Arlequin and the English title The Millions of Harlequin, is a comic ballet in two acts created by Marius Petipa with music by Riccardo Drigo. It was commissioned for the 1900–1901 season at the Imperial Hermitage Theatre and premiered before the Russian Imperial Court on 23 February 1900 (Old Style 10 February). A public Mariinsky Theatre premiere followed on 26 February 1900 (Old Style 13 February). Its characters and comic intrigue draw on the Italian commedia dell'arte tradition. Drigo's score includes the celebrated Sérénade, featuring a solo mandolin, and Columbine's Berceuse. The work survives in modern productions and excerpts, including its well-known pas de deux.",
+    "characters": [
+      "Harlequin",
+      "Columbine",
+      "Pierrot",
+      "Pierrette",
+      "Cassandre",
+      "Léandre",
+      "The Good Fairy"
+    ],
+    "key_variations": [
+      "Harlequin and Columbine Pas de Deux",
+      "Columbine's Berceuse",
+      "Harlequin's Variation",
+      "The Good Fairy's Variation",
+      "Sérénade"
+    ],
+    "historical_performances": [
+      {
+        "year": 1900,
+        "company": "Imperial Ballet",
+        "theater": "Imperial Theatre of the Hermitage, Saint Petersburg",
+        "choreographer": "Marius Petipa",
+        "relevance": "World premiere for the Imperial Court, with Matilda Kschessinskaya as Columbine and Georgy Kyaksht as Harlequin."
+      },
+      {
+        "year": 1900,
+        "company": "Imperial Ballet",
+        "theater": "Imperial Mariinsky Theatre, Saint Petersburg",
+        "choreographer": "Marius Petipa",
+        "relevance": "First Mariinsky Theatre performance shortly after the private court premiere."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "Mariinsky Ballet",
+        "country": "Russia",
+        "official_url": "https://www.mariinsky.ru"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": null,
+      "europeana_search_term": "(Harlequinade OR \"The Millions of Harlequin\" OR \"Le Million d'Arlequin\") AND (Marius Petipa OR Riccardo Drigo)",
+      "youtube_url": "https://www.youtube.com/results?search_query=Harlequinade+Petipa+Drigo+ballet",
+      "attribution_cover": null
+    }
+  },
+  {
+    "id": 67,
+    "title": "Esmeralda",
+    "style": "Romantic",
+    "difficulty_level": "Advanced",
+    "epoch_period": "19th Century",
+    "composer": "Cesare Pugni (with later additions by Riccardo Drigo)",
+    "original_choreographer": "Jules Perrot",
+    "premiere_year": 1844,
+    "premiere_location": "Her Majesty's Theatre, London, United Kingdom",
+    "acts": 4,
+    "synopsis": "Esmeralda, a young Romani dancer in medieval Paris, enters a marriage of convenience with the poet Pierre Gringoire to save his life. She is loved by Captain Phoebus, who is already engaged to Fleur-de-Lys, and is also obsessively pursued by the archdeacon Claude Frollo. Frollo orders Quasimodo to abduct Esmeralda, but Phoebus rescues her. Esmeralda later shows compassion to Quasimodo, who becomes devoted to her. When Frollo stabs Phoebus and falsely accuses Esmeralda of the crime, she is condemned to death. Phoebus survives and returns in time to clear her name, allowing the lovers to be reunited.",
+    "history_and_evolution": "Jules Perrot created Esmeralda as a Romantic ballet based on Victor Hugo's novel Notre-Dame de Paris. It premiered in London on 9 March 1844, with Carlotta Grisi in the title role and music by Cesare Pugni. The ballet reached Saint Petersburg in 1849 and became a major work of the Imperial repertory through Marius Petipa's revivals, notably the 1886 production starring Virginia Zucchi and the 1899 revival starring Matilda Kschessinskaya. Later stagings incorporated additional music and choreographic material, including divertissements that circulated independently. The ballet's surviving excerpts, especially the Esmeralda Pas de Deux and the Diana and Actaeon Pas de Deux, are more frequently encountered today than complete productions.",
+    "characters": [
+      "Esmeralda",
+      "Phoebus de Châteaupers",
+      "Pierre Gringoire",
+      "Quasimodo",
+      "Claude Frollo",
+      "Fleur-de-Lys",
+      "Clopin (The King of the Romani)"
+    ],
+    "key_variations": [
+      "Esmeralda's Variation with Tambourine",
+      "Esmeralda Pas de Deux",
+      "Diana and Actaeon Pas de Deux (later divertissement associated with the ballet)",
+      "Phoebus's Variation"
+    ],
+    "historical_performances": [
+      {
+        "year": 1844,
+        "company": "Her Majesty's Theatre company",
+        "theater": "Her Majesty's Theatre, London",
+        "choreographer": "Jules Perrot",
+        "relevance": "World premiere starring Carlotta Grisi as Esmeralda."
+      },
+      {
+        "year": 1886,
+        "company": "Imperial Ballet",
+        "theater": "Imperial Mariinsky Theatre, Saint Petersburg",
+        "choreographer": "Marius Petipa, after Jules Perrot",
+        "relevance": "Major revival starring Virginia Zucchi that helped preserve the ballet in the Russian repertory."
+      },
+      {
+        "year": 1899,
+        "company": "Imperial Ballet",
+        "theater": "Imperial Mariinsky Theatre, Saint Petersburg",
+        "choreographer": "Marius Petipa, after Jules Perrot",
+        "relevance": "Petipa's final revival, starring Matilda Kschessinskaya."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "Mariinsky Ballet",
+        "country": "Russia",
+        "official_url": "https://www.mariinsky.ru"
+      },
+      {
+        "name": "Bolshoi Ballet",
+        "country": "Russia",
+        "official_url": "https://www.bolshoi.ru"
+      },
+      {
+        "name": "Kremlin Ballet",
+        "country": "Russia",
+        "official_url": "https://en.kremlinpalace.org/ballet/repertoire/esmeralda"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": null,
+      "europeana_search_term": "(Esmeralda OR \"La Esmeralda\") AND (Jules Perrot OR Cesare Pugni OR Marius Petipa OR ballet)",
+      "youtube_url": "https://www.youtube.com/results?search_query=Esmeralda+Jules+Perrot+Petipa+ballet",
+      "attribution_cover": null
+    }
+  },
+  {
+    "id": 68,
+    "title": "The Fairy Doll (Die Puppenfee)",
+    "style": "Classical / Character",
+    "difficulty_level": "Intermediate",
+    "epoch_period": "Late 19th Century",
+    "composer": "Josef Bayer",
+    "original_choreographer": "Joseph Haßreiter (libretto co-written with Franz Xaver Gaul)",
+    "premiere_year": 1888,
+    "premiere_location": "Vienna Court Opera (now the Vienna State Opera), Vienna, Austria",
+    "acts": 1,
+    "synopsis": "The action takes place in a busy toy shop. During the day, the shopkeeper demonstrates mechanical dolls to customers, including an English family who are captivated by the beautiful Fairy Doll and arrange to buy her. After the shop closes and the humans leave, the dolls magically come to life. The Fairy Doll welcomes the other toys to a midnight celebration, where dolls representing different countries and characters perform a sequence of dances. When morning approaches, the toys return to their places, leaving the shopkeeper to wonder at the night's enchantment.",
+    "history_and_evolution": "Die Puppenfee, known in English as The Fairy Doll, is a one-act Viennese ballet with music by Josef Bayer and choreography by Joseph Haßreiter. Haßreiter and the painter Franz Xaver Gaul devised the libretto. The work was first presented privately in April 1888 under the title Im Puppenladen at a charity event hosted under the patronage of Princess Pauline Metternich; the performers were members of the Viennese aristocracy. Its professional premiere as Die Puppenfee took place at the Vienna Court Opera on 4 October 1888, with Camilla Pagliero as the Fairy Doll. In 1903, Sergei and Nikolai Legat created an influential Russian staging, later associated with elaborate designs by Léon Bakst and additional music by other composers. The ballet is structured as a divertissement of character dances and has been revived in different versions, so individual scenes and roles vary between productions.",
+    "characters": [
+      "The Fairy Doll",
+      "The Toyshop Owner",
+      "The Shop Assistant",
+      "Sir James Plumpstershire",
+      "Lady Plumpstershire",
+      "The English Family",
+      "The Peasant and His Family",
+      "The Mechanical Dolls",
+      "Harlequin",
+      "Columbine",
+      "Pierrot"
+    ],
+    "key_variations": [
+      "The Fairy Doll's Waltz",
+      "The Spanish Doll's Dance",
+      "The Japanese Doll's Dance",
+      "The Chinese Doll's Dance",
+      "The Tyrolean Doll's Ländler",
+      "Harlequin and Columbine Pas de Trois"
+    ],
+    "historical_performances": [
+      {
+        "year": 1888,
+        "company": "Vienna Court Opera Ballet",
+        "theater": "Vienna Court Opera, Vienna",
+        "choreographer": "Joseph Haßreiter",
+        "relevance": "Professional premiere on 4 October 1888, with Camilla Pagliero as the Fairy Doll."
+      },
+      {
+        "year": 1903,
+        "company": "Imperial Ballet",
+        "theater": "Imperial Mariinsky Theatre, Saint Petersburg",
+        "choreographer": "Sergei and Nikolai Legat, after Joseph Haßreiter",
+        "relevance": "Influential Russian staging that expanded the work into a showcase for leading dancers and incorporated additional music."
+      }
+    ],
+    "prominent_companies": [
+      {
+        "name": "Vienna State Ballet",
+        "country": "Austria",
+        "official_url": "https://www.wiener-staatsoper.at"
+      },
+      {
+        "name": "Mariinsky Ballet",
+        "country": "Russia",
+        "official_url": "https://www.mariinsky.ru"
+      }
+    ],
+    "multimedia": {
+      "cover_image_url": null,
+      "europeana_search_term": "(\"Die Puppenfee\" OR \"The Fairy Doll\" OR \"La Fée des poupées\") AND (Josef Bayer OR Joseph Haßreiter OR ballet)",
+      "youtube_url": "https://www.youtube.com/results?search_query=Die+Puppenfee+The+Fairy+Doll+ballet+full",
+      "attribution_cover": null
+    }
   }
 ]
