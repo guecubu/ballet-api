@@ -51,7 +51,19 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Natalya_Kusch%2C_Swan_Lake%2C_Odessa_2020.png",
       "europeana_search_term": "(\"Swan Lake\" OR \"Lac des cygnes\" OR Schwanensee OR Zwanenmeer) AND (ballet OR ballett OR balet OR Tchaikovsky)",
       "youtube_url": "https://www.youtube.com/results?search_query=Swan+Lake+Ballet+full+performance"
-    }
+    },
+    "schools": [
+      "Russian",
+      "Bolshoi",
+      "Mariinsky"
+    ],
+    "traditions": [
+      "Imperial Russian Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Tragic Romance"
+    ]
   },
   {
     "id": 2,
@@ -100,7 +112,20 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Kuorikoski-Keinanen-1947.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
       "europeana_search_term": "(Nutcracker OR \"Casse-noisette\" OR Nussknacker OR Notenkraker) AND (ballet OR ballett OR balet OR Tchaikovsky)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Nutcracker+Ballet+full+performance"
-    }
+    },
+    "schools": [
+      "Russian",
+      "Mariinsky"
+    ],
+    "traditions": [
+      "Imperial Russian Ballet",
+      "Holiday Ballet"
+    ],
+    "genre": [
+      "Fairy Tale",
+      "Fantasy",
+      "Divertissement"
+    ]
   },
   {
     "id": 3,
@@ -149,7 +174,20 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Fumi_Kaneko_The_Sleeping_Beauty.png?utm_campaign=index&utm_content=thumbnail_unscaled&utm_source=commons.wikimedia.org",
       "europeana_search_term": "(\"Sleeping Beauty\" OR \"Belle au bois dormant\" OR Dornröschen OR Doornroosje) AND (ballet OR ballett OR balet OR Tchaikovsky)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Sleeping+Beauty+Ballet+full"
-    }
+    },
+    "schools": [
+      "Russian",
+      "Mariinsky"
+    ],
+    "traditions": [
+      "Imperial Russian Ballet",
+      "Fairy-tale Ballet"
+    ],
+    "genre": [
+      "Fairy Tale",
+      "Narrative",
+      "Grand Ballet"
+    ]
   },
   {
     "id": 4,
@@ -198,7 +236,20 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Giselle_-_Anna_Pavlova%2C1903.jpg",
       "europeana_search_term": "Giselle AND (ballet OR ballett OR balet OR \"Adolphe Adam\")",
       "youtube_url": "https://www.youtube.com/results?search_query=Giselle+Ballet+full+performance"
-    }
+    },
+    "schools": [
+      "French",
+      "Russian",
+      "Mariinsky"
+    ],
+    "traditions": [
+      "French Romantic Ballet",
+      "Ballet blanc"
+    ],
+    "genre": [
+      "Narrative",
+      "Romantic Tragedy"
+    ]
   },
   {
     "id": 5,
@@ -248,7 +299,20 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Don_Quixote_ballet.jpg",
       "europeana_search_term": "(\"Don Quixote\" OR \"Don Quichotte\" OR \"Don Quijote\" OR \"Don Quichot\") AND (ballet OR ballett OR Minkus OR Petipa OR Gorsky)",
       "youtube_url": "https://www.youtube.com/results?search_query=Don+Quixote+Ballet+full"
-    }
+    },
+    "schools": [
+      "Russian",
+      "Bolshoi"
+    ],
+    "traditions": [
+      "Imperial Russian Ballet",
+      "Character Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Comic",
+      "Character Ballet"
+    ]
   },
   {
     "id": 6,
@@ -294,7 +358,20 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Coppelia_-Swanilda_-Giuseppina_Bozzachi_-Act_I-Scene_2_-Paris_-1870.JPG",
       "europeana_search_term": "(Coppélia OR Coppelia)",
       "youtube_url": "https://www.youtube.com/results?search_query=Coppelia+Ballet+full"
-    }
+    },
+    "schools": [
+      "French",
+      "Russian",
+      "Mariinsky"
+    ],
+    "traditions": [
+      "French Romantic Ballet",
+      "Comic Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Comic"
+    ]
   },
   {
     "id": 7,
@@ -341,7 +418,22 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Arata_Miyagawa_-_La_Sylphide%2C_James_-_Prix_de_Lausanne_2010-3.jpg",
       "europeana_search_term": "(\"La Sylphide\" OR Sylfiden)",
       "youtube_url": "https://www.youtube.com/results?search_query=La+Sylphide+Bournonville+Ballet+full"
-    }
+    },
+    "schools": [
+      "French",
+      "Danish",
+      "Bournonville"
+    ],
+    "traditions": [
+      "French Romantic Ballet",
+      "Ballet blanc",
+      "Bournonville tradition"
+    ],
+    "genre": [
+      "Narrative",
+      "Romantic",
+      "Ballet blanc"
+    ]
   },
   {
     "id": 8,
@@ -391,12 +483,25 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Romeo_i_Julija%2C_Balet_SNP%2C_2013-14%2C_Liviu_Har%2C_Ana_%C4%90uri%C4%87%2C_foto_M._Polzovi%C4%87.jpg",
       "europeana_search_term": "(\"Romeo and Juliet\" OR \"Roméo et Juliette\" OR \"Romeo und Julia\" OR \"Romeo en Julia\") AND (ballet OR ballett OR Prokofiev)",
       "youtube_url": "https://www.youtube.com/results?search_query=Romeo+and+Juliet+MacMillan+Ballet+full"
-    }
+    },
+    "schools": [
+      "Russian",
+      "Mariinsky",
+      "British"
+    ],
+    "traditions": [
+      "20th-century Narrative Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Tragedy",
+      "Dance Drama"
+    ]
   },
   {
     "id": 9,
     "title": "The Firebird",
-    "style": "Modern / Avant-Garde",
+    "style": "Modernist",
     "difficulty_level": "Advanced",
     "epoch_period": "Early 20th Century",
     "composer": "Igor Stravinsky",
@@ -437,12 +542,23 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Tamara_Karsavina_Michel_Fokine_The_Firebird_1910.jpg",
       "europeana_search_term": "(Firebird OR \"Oiseau de feu\" OR Feuervogel OR Vuurvogel) AND (ballet OR ballett OR Stravinsky OR Fokine)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Firebird+Stravinsky+Ballet+full"
-    }
+    },
+    "schools": [
+      "Russian"
+    ],
+    "traditions": [
+      "Ballets Russes",
+      "Early Modernism"
+    ],
+    "genre": [
+      "Narrative",
+      "Fantasy"
+    ]
   },
   {
     "id": 10,
     "title": "The Rite of Spring",
-    "style": "Modern / Avant-Garde",
+    "style": "Modernist",
     "difficulty_level": "Virtuoso",
     "epoch_period": "Early 20th Century",
     "composer": "Igor Stravinsky",
@@ -482,7 +598,20 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/RiteofSpringDancers.jpg",
       "europeana_search_term": "(\"Rite of Spring\" OR \"Sacre du printemps\" OR Frühlingsopfer) AND (ballet OR ballett OR Nijinsky OR Stravinsky)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Rite+of+Spring+Nijinsky+Joffrey+Ballet"
-    }
+    },
+    "schools": [
+      "Russian"
+    ],
+    "traditions": [
+      "Ballets Russes",
+      "Modernist Ballet",
+      "Primitivism"
+    ],
+    "genre": [
+      "Abstract",
+      "Ritual",
+      "Narrative"
+    ]
   },
   {
     "id": 11,
@@ -529,7 +658,18 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Artem_Ovcharenko_as_Apollo.jpg",
       "europeana_search_term": "(Apollo OR Apollon OR \"Apollon musagète\" OR \"Apollo musagetes\") AND (Balanchine OR \"Ballets Russes\")",
       "youtube_url": "https://www.youtube.com/results?search_query=Apollo+George+Balanchine+NYCB"
-    }
+    },
+    "schools": [
+      "American",
+      "Balanchine"
+    ],
+    "traditions": [
+      "American Neoclassicism"
+    ],
+    "genre": [
+      "Abstract",
+      "Plotless"
+    ]
   },
   {
     "id": 12,
@@ -572,7 +712,19 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Russell_Janzen_and_Unity_Phelan_in_Jewels%2C_Diamonds_%282%29.jpg",
       "europeana_search_term": "Jewels Balanchine Ballet",
       "youtube_url": "https://www.youtube.com/results?search_query=Jewels+George+Balanchine+Ballet"
-    }
+    },
+    "schools": [
+      "American",
+      "Balanchine"
+    ],
+    "traditions": [
+      "American Neoclassicism",
+      "Triptych Ballet"
+    ],
+    "genre": [
+      "Abstract",
+      "Plotless"
+    ]
   },
   {
     "id": 13,
@@ -620,7 +772,18 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/L%27Histoire_de_Manon_%28Prague%2C_20.02.2025%29.jpg",
       "europeana_search_term": "Manon AND MacMillan",
       "youtube_url": "https://www.youtube.com/results?search_query=Manon+MacMillan+Royal+Ballet"
-    }
+    },
+    "schools": [
+      "British"
+    ],
+    "traditions": [
+      "British Dramatic Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Dance Drama",
+      "Tragedy"
+    ]
   },
   {
     "id": 14,
@@ -669,7 +832,21 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Yamamoto_Mashiko_-_Le_Corsaire_-_Prix_de_Lausanne_2010-4.jpg",
       "europeana_search_term": "\"Le Corsaire\" AND (ballet OR ballett OR Petipa OR Mazilier)",
       "youtube_url": "https://www.youtube.com/results?search_query=Le+Corsaire+Pas+de+Deux+full"
-    }
+    },
+    "schools": [
+      "French",
+      "Russian",
+      "Mariinsky"
+    ],
+    "traditions": [
+      "Romantic-era Ballet",
+      "Imperial Russian Revival"
+    ],
+    "genre": [
+      "Narrative",
+      "Adventure",
+      "Character Ballet"
+    ]
   },
   {
     "id": 15,
@@ -717,7 +894,19 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Bayadere_Kingdom_of_the_Shades_Mathilde_Kschessinskaya_Pavel_Gerdt_1900.jpg",
       "europeana_search_term": "(\"La Bayadère\" OR \"La Bayadere\" OR Bayadere) AND (ballet OR ballett OR Minkus OR Petipa)",
       "youtube_url": "https://www.youtube.com/results?search_query=La+Bayadere+Kingdom+of+the+Shades"
-    }
+    },
+    "schools": [
+      "Russian",
+      "Mariinsky"
+    ],
+    "traditions": [
+      "Imperial Russian Ballet",
+      "Orientalist Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Grand Ballet"
+    ]
   },
   {
     "id": 16,
@@ -764,7 +953,16 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Onegin_02.jpg",
       "europeana_search_term": "Onegin AND (Cranko OR ballet OR ballett)",
       "youtube_url": "https://www.youtube.com/results?search_query=Onegin+John+Cranko+Ballet"
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Stuttgart Ballet Tradition",
+      "Narrative Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Tragedy"
+    ]
   },
   {
     "id": 17,
@@ -810,12 +1008,23 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Olga_Preobrajenska_Sylvia_L%C3%A9o_Delibes.jpg",
       "europeana_search_term": "Sylvia AND (ballet OR ballett OR Delibes OR Ashton)",
       "youtube_url": "https://www.youtube.com/results?search_query=Sylvia+Ballet+Ashton+Royal+Opera+House"
-    }
+    },
+    "schools": [
+      "French",
+      "British"
+    ],
+    "traditions": [
+      "French Academic Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Mythological"
+    ]
   },
   {
     "id": 18,
     "title": "Petrushka",
-    "style": "Modern / Avant-Garde",
+    "style": "Modernist",
     "difficulty_level": "Advanced",
     "epoch_period": "Early 20th Century",
     "composer": "Igor Stravinsky",
@@ -855,12 +1064,23 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Vaslav_Nijinsky_P%C3%A9trouchka.jpg",
       "europeana_search_term": "(Petrushka OR Petrouchka OR Petruschka OR Petroesjka) AND (ballet OR ballett OR Stravinsky OR Fokine)",
       "youtube_url": "https://www.youtube.com/results?search_query=Petrushka+Ballet+Stravinsky+full"
-    }
+    },
+    "schools": [
+      "Russian"
+    ],
+    "traditions": [
+      "Ballets Russes",
+      "Early Modernism"
+    ],
+    "genre": [
+      "Narrative",
+      "Character Ballet"
+    ]
   },
   {
     "id": 19,
     "title": "Daphnis et Chloé",
-    "style": "Modern / Avant-Garde",
+    "style": "Modernist",
     "difficulty_level": "Advanced",
     "epoch_period": "Early 20th Century",
     "composer": "Maurice Ravel",
@@ -901,7 +1121,19 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Harvard_Theatre_Collection_-_Fokine%2C_MS_Thr_414.2_%2844%29.jpg",
       "europeana_search_term": "(\"Daphnis et Chloé\" OR \"Daphnis et Chloe\" OR \"Daphnis and Chloe\") AND (ballet OR ballett OR Fokine OR Ashton)",
       "youtube_url": "https://www.youtube.com/results?search_query=Daphnis+et+Chloe+Ashton+Ballet"
-    }
+    },
+    "schools": [
+      "Russian",
+      "British"
+    ],
+    "traditions": [
+      "Ballets Russes",
+      "Early Modernism"
+    ],
+    "genre": [
+      "Narrative",
+      "Mythological"
+    ]
   },
   {
     "id": 20,
@@ -945,7 +1177,19 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Ballet_dancer_%28SAYRE_11652%29.jpg",
       "europeana_search_term": "(\"Les Sylphides\" OR Chopiniana)",
       "youtube_url": "https://www.youtube.com/results?search_query=Les+Sylphides+Ballet+full"
-    }
+    },
+    "schools": [
+      "Russian"
+    ],
+    "traditions": [
+      "Ballets Russes",
+      "Romantic Revival",
+      "Ballet blanc"
+    ],
+    "genre": [
+      "Abstract",
+      "Ballet blanc"
+    ]
   },
   {
     "id": 21,
@@ -990,7 +1234,19 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Anton_Dolin.jpg",
       "europeana_search_term": "(\"Prodigal Son\" OR \"Fils prodigue\" OR \"Verlorene Sohn\") AND (ballet OR ballett OR Balanchine OR Prokofiev)",
       "youtube_url": "https://www.youtube.com/results?search_query=Prodigal+Son+Ballet+Balanchine+NYCB"
-    }
+    },
+    "schools": [
+      "American",
+      "Balanchine"
+    ],
+    "traditions": [
+      "American Neoclassicism",
+      "Biblical Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Biblical"
+    ]
   },
   {
     "id": 22,
@@ -1032,7 +1288,18 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Violette_Verdy.jpg",
       "europeana_search_term": "Serenade AND Balanchine",
       "youtube_url": "https://www.youtube.com/results?search_query=Serenade+Ballet+Balanchine+full"
-    }
+    },
+    "schools": [
+      "American",
+      "Balanchine"
+    ],
+    "traditions": [
+      "American Neoclassicism"
+    ],
+    "genre": [
+      "Abstract",
+      "Plotless"
+    ]
   },
   {
     "id": 23,
@@ -1074,12 +1341,24 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Agon.jpg",
       "europeana_search_term": "Agon AND (ballet OR ballett OR Balanchine OR Stravinsky)",
       "youtube_url": "https://www.youtube.com/results?search_query=Agon+Ballet+Balanchine+NYCB"
-    }
+    },
+    "schools": [
+      "American",
+      "Balanchine"
+    ],
+    "traditions": [
+      "American Neoclassicism",
+      "Abstract Ballet"
+    ],
+    "genre": [
+      "Abstract",
+      "Plotless"
+    ]
   },
   {
     "id": 24,
     "title": "The Miraculous Mandarin",
-    "style": "Modern / Avant-Garde",
+    "style": "Modernist",
     "difficulty_level": "Advanced",
     "epoch_period": "Early 20th Century",
     "composer": "Béla Bartók",
@@ -1119,7 +1398,15 @@
       "europeana_search_term": "(\"Miraculous Mandarin\" OR \"Mandarin merveilleux\" OR \"Wunderbare Mandarin\" OR \"Csodálatos mandarin\") AND (ballet OR ballett OR Bartok OR Bartók)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Miraculous+Mandarin+Ballet+MacMillan",
       "attribution_cover": "Poster for the world premiere of The Miraculous Mandarin, November 27, 1926. Artist: Béla Bartók. Source: Wikimedia Commons, https://commons.wikimedia.org/wiki/File:PrMandarinpr.jpg. Public domain (Public Domain Mark 1.0). Historical premiere poster; 408 × 600 px."
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Expressionist Modernism"
+    ],
+    "genre": [
+      "Narrative",
+      "Expressionist Dance Drama"
+    ]
   },
   {
     "id": 25,
@@ -1166,7 +1453,20 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bernara_Karieva.jpg",
       "europeana_search_term": "(Cinderella OR Cendrillon OR Aschenbrödel OR Assepoester) AND (Prokofiev OR Prokofjew OR Prokofjev OR Ashton OR Zakharov)",
       "youtube_url": "https://www.youtube.com/results?search_query=Cinderella+Ballet+Ashton+full"
-    }
+    },
+    "schools": [
+      "Russian",
+      "Bolshoi",
+      "British"
+    ],
+    "traditions": [
+      "Soviet Narrative Ballet",
+      "Fairy-tale Ballet"
+    ],
+    "genre": [
+      "Fairy Tale",
+      "Narrative"
+    ]
   },
   {
     "id": 26,
@@ -1211,7 +1511,20 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/RIAN_archive_521299_Yekaterina_Maksimova_as_Maria.jpg",
       "europeana_search_term": "(\"Fountain of Bakhchisaray\" OR \"Fountain of Bakhchisarai\" OR \"Fountain of Bakhchissarai\" OR \"Fontaine de Bakhtchissaraï\" OR \"Bachtschissarai\" OR \"Bachčisarajská fontána\") AND (ballet OR ballett OR Asafiev OR Asafyev)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Fountain+of+Bakhchisaray+Ballet+full"
-    }
+    },
+    "schools": [
+      "Russian",
+      "Mariinsky"
+    ],
+    "traditions": [
+      "Soviet Choreodrama",
+      "Narrative Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Dance Drama",
+      "Historical"
+    ]
   },
   {
     "id": 27,
@@ -1256,7 +1569,21 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/RIAN_archive_635065_Final_scene_from_Aram_Khachaturyan%27s_ballet_Spartacus.jpg",
       "europeana_search_term": "(Spartacus OR Spartak) AND (ballet OR ballett OR Khachaturian OR Grigorovich OR Yakobson)",
       "youtube_url": "https://www.youtube.com/results?search_query=Spartacus+Ballet+Bolshoi+full"
-    }
+    },
+    "schools": [
+      "Russian",
+      "Mariinsky",
+      "Bolshoi"
+    ],
+    "traditions": [
+      "Soviet Heroic Ballet",
+      "Dramatic Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Heroic",
+      "Dance Drama"
+    ]
   },
   {
     "id": 28,
@@ -1301,7 +1628,18 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/RIAN_archive_644727_Ballet_dancer_Vladimir_Preobrazhensky_in_scene_from_ballet_The_Tale_of_the_Stone_Flower.jpg",
       "europeana_search_term": "(\"Stone Flower\" OR \"Fleur de pierre\" OR \"Steinerne Blume\") AND (ballet OR ballett OR Prokofiev)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Stone+Flower+Ballet+Bolshoi"
-    }
+    },
+    "schools": [
+      "Russian",
+      "Bolshoi"
+    ],
+    "traditions": [
+      "Soviet Narrative Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Fairy Tale"
+    ]
   },
   {
     "id": 29,
@@ -1347,7 +1685,19 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Alina_Cojocaru_Johan_Kobborg_Laura_Morera_Mayerling.JPG",
       "europeana_search_term": "Mayerling Ballet MacMillan",
       "youtube_url": "https://www.youtube.com/results?search_query=Mayerling+Ballet+Royal+Opera+House"
-    }
+    },
+    "schools": [
+      "British"
+    ],
+    "traditions": [
+      "British Dramatic Ballet",
+      "Psychological Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Dance Drama",
+      "Tragedy"
+    ]
   },
   {
     "id": 30,
@@ -1395,7 +1745,17 @@
       "europeana_search_term": "(\"Winter's Tale\" OR \"Winters Tale\") AND (Wheeldon OR \"Joby Talbot\")",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Winters+Tale+Ballet+Royal+Opera+House",
       "attribution_cover": "© Royal Opera House / Johan Persson, 2014. Photograph of The Winter’s Tale (The Royal Ballet), published by Christopher Wheeldon. Source: https://www.selvedge.org/blogs/selvedge/the-royal-ballet-the-winter-s-tale. Reproduction rights have not been verified; included for this restricted-access educational project."
-    }
+    },
+    "schools": [
+      "British"
+    ],
+    "traditions": [
+      "Contemporary Narrative Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Literary Adaptation"
+    ]
   },
   {
     "id": 31,
@@ -1441,7 +1801,18 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KC_Ballet_ALICE_120411_048_%2813221093965%29.jpg",
       "europeana_search_term": "(\"Alice's Adventures in Wonderland\" OR \"Alice in Wonderland\" OR \"Alice au pays des merveilles\") AND (Wheeldon OR \"Joby Talbot\")",
       "youtube_url": "https://www.youtube.com/results?search_query=Alice+Adventures+in+Wonderland+Ballet+Wheeldon"
-    }
+    },
+    "schools": [
+      "British"
+    ],
+    "traditions": [
+      "Contemporary Narrative Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Fantasy",
+      "Literary Adaptation"
+    ]
   },
   {
     "id": 32,
@@ -1483,7 +1854,16 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/4726-_023_-%C2%AE_A_Bofill_%2825438811316%29.jpg",
       "europeana_search_term": "\"Vertiginous Thrill of Exactitude\"",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Vertiginous+Thrill+of+Exactitude+Forsythe"
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Contemporary Classical Repertoire",
+      "Neoclassical Ballet"
+    ],
+    "genre": [
+      "Abstract",
+      "Plotless"
+    ]
   },
   {
     "id": 33,
@@ -1526,12 +1906,21 @@
       "europeana_search_term": "In the Middle Somewhat Elevated",
       "youtube_url": "https://www.youtube.com/results?search_query=In+the+Middle+Somewhat+Elevated+Forsythe",
       "attribution_cover": "Photograph by Jesús Vallinas. Noëllie Conjeaud and Esteban Berlanga in William Forsythe’s In the Middle, Somewhat Elevated. Source: Compañía Nacional de Danza (INAEM), official repertoire page: https://cndanza.inaem.gob.es/en/repertoire/in-the-middle-somewhat-elevated/. The image is published by the CND; no explicit reuse licence has been identified. Included with attribution for this restricted educational project; attribution does not constitute permission. Landscape image; central crop retains the partnering dancers."
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Forsythe Repertory",
+      "Contemporary Ballet"
+    ],
+    "genre": [
+      "Abstract",
+      "Plotless"
+    ]
   },
   {
     "id": 34,
     "title": "The Lady of the Camellias",
-    "style": "Classical",
+    "style": "Contemporary",
     "difficulty_level": "Virtuoso",
     "epoch_period": "Late 20th Century",
     "composer": "Frédéric Chopin",
@@ -1573,12 +1962,22 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Dama_kameliowa%2C_choreografia_John_Neumeier%2C_Polski_Balet_Narodowy%2C_fot._Ewa_Krasucka_TW-ON.jpg",
       "europeana_search_term": "(\"Lady of the Camellias\" OR \"Lady of the Camelias\" OR Kameliendame OR \"Dame aux camélias\") AND (Neumeier OR ballet OR ballett)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Lady+of+the+Camellias+Ballet+Neumeier"
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Contemporary Narrative Ballet",
+      "Psychological Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Dance Drama",
+      "Tragedy"
+    ]
   },
   {
     "id": 35,
     "title": "Carmen Suite",
-    "style": "Modern / Avant-Garde",
+    "style": "Modernist",
     "difficulty_level": "Advanced",
     "epoch_period": "Mid-20th Century",
     "composer": "Georges Bizet (orchestrated by Rodion Shchedrin)",
@@ -1618,12 +2017,23 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Maya_Plisetskaya_on_Carmen_Suite.jpg",
       "europeana_search_term": "(((\"Carmen Suite\" OR \"Carmen-Suite\") AND (ballet OR ballett OR Alonso OR Plisetskaya OR Shchedrin)) OR (Carmen AND Shchedrin))",
       "youtube_url": "https://www.youtube.com/results?search_query=Carmen+Suite+Maya+Plisetskaya+Bolshoi"
-    }
+    },
+    "schools": [
+      "Cuban"
+    ],
+    "traditions": [
+      "Cuban Ballet",
+      "Modernist Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Character Ballet"
+    ]
   },
   {
     "id": 36,
     "title": "The Moor's Pavane",
-    "style": "Modern / Avant-Garde",
+    "style": "Modernist",
     "difficulty_level": "Intermediate",
     "epoch_period": "Mid-20th Century",
     "composer": "Henry Purcell (arranged by Simon Sarto)",
@@ -1663,12 +2073,25 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Hee_Seo%2C_American_Ballet_Theatre%2C_The_Moor%27s_Pavane%2C_November_8%2C_2013.jpg",
       "europeana_search_term": "(\"Moor's Pavane\" OR \"Moors Pavane\")",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Moors+Pavane+Jos%C3%A9+Lim%C3%B3n+Dance+Company"
-    }
+    },
+    "schools": [
+      "American",
+      "Limón"
+    ],
+    "traditions": [
+      "American Modern Dance",
+      "Expressionist Dance"
+    ],
+    "genre": [
+      "Narrative",
+      "Dance Drama",
+      "Tragedy"
+    ]
   },
   {
     "id": 37,
     "title": "Green Table",
-    "style": "Modern / Avant-Garde",
+    "style": "Modernist",
     "difficulty_level": "Advanced",
     "epoch_period": "Early 20th Century",
     "composer": "Fritz Cohen",
@@ -1710,7 +2133,16 @@
       "europeana_search_term": "(\"Green Table\" OR \"Grüne Tisch\" OR \"Table verte\") AND (Jooss OR ballet OR ballett)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Green+Table+Kurt+Jooss+Ballet",
       "attribution_cover": "Photograph by Domingo Ulloa. Masks for Kurt Jooss’s The Green Table, performed by the Ballet Nacional Chileno (1956). Source: Biblioteca Nacional Digital de Chile, photographic archive, item AF0002634: https://www.bibliotecanacionaldigital.gob.cl/bnd/629/w3-article-164497.html. The archive marks the photograph as copyright protected; no open reuse licence is stated. Included with attribution for this restricted educational project at the user’s discretion; attribution does not constitute permission. Archival portrait-format photograph; the thumbnail URL is being tested as a replacement for the broken image URL."
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "German Ausdruckstanz",
+      "Political Dance Theatre"
+    ],
+    "genre": [
+      "Narrative",
+      "Political Dance Drama"
+    ]
   },
   {
     "id": 38,
@@ -1754,7 +2186,16 @@
       "europeana_search_term": "Cacti Ballet Alexander Ekman",
       "youtube_url": "https://www.youtube.com/results?search_query=Cacti+Alexander+Ekman+Nederlands+Dans+Theater",
       "attribution_cover": "Photograph by Rahi Rezvani. Alexander Ekman’s Cacti, performed by Nederlands Dans Theater. Source: Google Arts & Culture, item “Cacti”: https://artsandculture.google.com/asset/AgG4tmdXDPh0Xw?childAssetId=jgFqZE3_rcEO7w. The item identifies Rahi Rezvani as the rights holder; no open reuse licence is stated. Included with attribution for this restricted educational project at the user’s discretion; attribution does not constitute permission. Landscape image, 500 × 375 px; direct Google-hosted image URL."
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Contemporary Dance",
+      "Conceptual Dance"
+    ],
+    "genre": [
+      "Abstract",
+      "Conceptual"
+    ]
   },
   {
     "id": 39,
@@ -1797,7 +2238,15 @@
       "europeana_search_term": "Polyphonia Ballet Wheeldon",
       "youtube_url": "https://www.youtube.com/results?search_query=Polyphonia+Christopher+Wheeldon+New+York+City+Ballet",
       "attribution_cover": "Source: Christopher Wheeldon’s official Polyphonia gallery. The photographer is not identified on the page. Photograph of a pair of dancers in a lift, with a portrait composition. Reproduction rights are not specified; included with source attribution for this restricted-access educational project. Source: https://christopherwheeldon.com/polyphonia"
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Contemporary Neoclassical Ballet"
+    ],
+    "genre": [
+      "Abstract",
+      "Plotless"
+    ]
   },
   {
     "id": 40,
@@ -1840,7 +2289,15 @@
       "europeana_search_term": "Chroma Ballet Wayne McGregor",
       "youtube_url": "https://www.youtube.com/results?search_query=Chroma+Wayne+McGregor+Royal+Ballet",
       "attribution_cover": "Photograph by Johan Persson. The Royal Ballet production (2006). Source: Studio Wayne McGregor, official Chroma page. Included for educational use in this project; all rights reserved, and no open licence has been identified."
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Contemporary Ballet"
+    ],
+    "genre": [
+      "Abstract",
+      "Plotless"
+    ]
   },
   {
     "id": 41,
@@ -1883,12 +2340,20 @@
       "europeana_search_term": "Within the Golden Hour Ballet",
       "youtube_url": "https://www.youtube.com/results?search_query=Within+the+Golden+Hour+San+Francisco+Ballet",
       "attribution_cover": "Photograph by Tristram Kenton. © Royal Opera House (2019). Source: Christopher Wheeldon’s official Within the Golden Hour gallery. Included for educational use in this project; all rights reserved, and no open licence has been identified."
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Contemporary Neoclassical Ballet"
+    ],
+    "genre": [
+      "Abstract",
+      "Plotless"
+    ]
   },
   {
     "id": 42,
     "title": "Artifact Suite",
-    "style": "Neoclassical",
+    "style": "Contemporary",
     "difficulty_level": "Virtuoso",
     "epoch_period": "21st Century",
     "composer": "Johann Sebastian Bach / Thom Willems",
@@ -1926,7 +2391,16 @@
       "europeana_search_term": "Artifact Suite Forsythe",
       "youtube_url": "https://www.youtube.com/results?search_query=Artifact+Suite+William+Forsythe",
       "attribution_cover": "Photograph by Ewa Krasucka / Polski Balet Narodowy. Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)."
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Forsythe Repertory",
+      "Contemporary Ballet"
+    ],
+    "genre": [
+      "Abstract",
+      "Plotless"
+    ]
   },
   {
     "id": 43,
@@ -1968,12 +2442,21 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/%D0%9C%D0%B8%D0%BD%D1%83%D1%81_16_%28%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%B8%D0%BC._%D0%9A.%D0%A1._%D0%A1%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B8_%D0%92%D0%BB.%D0%98._%D0%9D%D0%B5%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87%D0%B0-%D0%94%D0%B0%D0%BD%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29_1.jpg",
       "europeana_search_term": "Minus 16 Ohad Naharin",
       "youtube_url": "https://www.youtube.com/results?search_query=Minus+16+Ohad+Naharin+Batsheva"
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Gaga",
+      "Contemporary Dance"
+    ],
+    "genre": [
+      "Abstract",
+      "Improvisational"
+    ]
   },
   {
     "id": 44,
     "title": "Blake Works I",
-    "style": "Neoclassical",
+    "style": "Contemporary",
     "difficulty_level": "Advanced",
     "epoch_period": "21st Century",
     "composer": "James Blake",
@@ -2011,7 +2494,16 @@
       "europeana_search_term": "Blake Works I Forsythe",
       "youtube_url": "https://www.youtube.com/results?search_query=Blake+Works+I+William+Forsythe+Paris+Opera",
       "attribution_cover": "Photograph by Ann Ray / Opéra national de Paris. Blake Works I (2019/20 season). Source: Opéra national de Paris, official production gallery. No open reuse licence has been identified; included with attribution for this restricted educational project. Attribution does not constitute permission."
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Forsythe Repertory",
+      "Contemporary Ballet"
+    ],
+    "genre": [
+      "Abstract",
+      "Plotless"
+    ]
   },
   {
     "id": 45,
@@ -2054,7 +2546,16 @@
       "europeana_search_term": "Symphony in D Kylian",
       "youtube_url": "https://www.youtube.com/results?search_query=Symphony+in+D+Jiri+Kylian+Stuttgart+Ballet",
       "attribution_cover": "Photograph by Jorge Fatauros. Nederlands Dans Theater in Jiří Kylián’s Symphony in D (1976). Source: Jiří Kylián, official creations archive: https://www.jirikylian.com/creations/theatre/symphony_in_d/. The official archive identifies the still and photographer; no explicit reuse licence has been identified. Included with attribution for this restricted educational project; attribution does not constitute permission."
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Nederlands Dans Theater Repertory",
+      "Contemporary Neoclassical Ballet"
+    ],
+    "genre": [
+      "Abstract",
+      "Plotless"
+    ]
   },
   {
     "id": 46,
@@ -2097,7 +2598,16 @@
       "europeana_search_term": "\"Forgotten Land\" AND (Kylian OR Kylián OR ballet)",
       "youtube_url": "https://www.youtube.com/results?search_query=Forgotten+Land+Jiri+Kylian",
       "attribution_cover": "Photograph by Fernando Marcos / Compañía Nacional de Danza (INAEM). Source: https://cndanza.inaem.gob.es/en/repertoire/forgotten-land/. Reproduction rights have not been verified; image used for this restricted-access educational project."
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Nederlands Dans Theater Repertory",
+      "Contemporary Ballet"
+    ],
+    "genre": [
+      "Abstract",
+      "Narrative Elements"
+    ]
   },
   {
     "id": 47,
@@ -2145,7 +2655,16 @@
         "source_url": "https://cndanza.inaem.gob.es/repertorio/bella-figura/",
         "rights": "Photograph published by Compañía Nacional de Danza. No open licence or explicit reuse permission has been identified. Restricted educational use is the user’s decision; attribution does not constitute permission."
       }
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Nederlands Dans Theater Repertory",
+      "Contemporary Ballet"
+    ],
+    "genre": [
+      "Abstract",
+      "Plotless"
+    ]
   },
   {
     "id": 48,
@@ -2188,7 +2707,16 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/BDP21420KCB1_%2839471220990%29.jpg",
       "europeana_search_term": "(\"Petite Mort\" OR \"Petit Mort\") AND (Kylian OR Kylián OR ballet OR \"Nederlands Dans Theater\")",
       "youtube_url": "https://www.youtube.com/results?search_query=Petit+Mort+Jiri+Kylian+NDT"
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Nederlands Dans Theater Repertory",
+      "Contemporary Ballet"
+    ],
+    "genre": [
+      "Abstract",
+      "Plotless"
+    ]
   },
   {
     "id": 49,
@@ -2231,7 +2759,16 @@
       "europeana_search_term": "Symphony of Psalms Kylian",
       "youtube_url": "https://www.youtube.com/results?search_query=Symphony+of+Psalms+Jiri+Kylian",
       "attribution_cover": "Photograph by Fernando Marcos / Compañía Nacional de Danza (INAEM). Source: https://cndanza.inaem.gob.es/repertorio/sinfonia-de-los-salmos/. Image published without an open licence; attribution is provided for this restricted-access educational project. Reproduction rights have not been verified."
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Nederlands Dans Theater Repertory",
+      "Contemporary Neoclassical Ballet"
+    ],
+    "genre": [
+      "Abstract",
+      "Sacred Music"
+    ]
   },
   {
     "id": 50,
@@ -2277,7 +2814,18 @@
       "europeana_search_term": "The Concert Jerome Robbins Ballet",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Concert+Jerome+Robbins+NYCB",
       "attribution_cover": "Photographer unknown. Todd Bolender in The Concert (1960). Source: NYPL Digital Collections, via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Todd_Bolender_in_The_Concert_(1960).jpg). Wikimedia Commons identifies the image as public domain in the United States because it was published without a copyright notice; this does not by itself establish public-domain status in Spain/the EU. Intended use: restricted-access educational material."
-    }
+    },
+    "schools": [
+      "American"
+    ],
+    "traditions": [
+      "American Neoclassicism",
+      "Comic Ballet"
+    ],
+    "genre": [
+      "Comic",
+      "Divertissement"
+    ]
   },
   {
     "id": 51,
@@ -2320,7 +2868,18 @@
       "europeana_search_term": "Dances at a Gathering Robbins",
       "youtube_url": "https://www.youtube.com/results?search_query=Dances+at+a+Gathering+Jerome+Robbins+NYCB",
       "attribution_cover": "Photograph by Ninnanonna,co. Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)."
-    }
+    },
+    "schools": [
+      "American"
+    ],
+    "traditions": [
+      "American Neoclassicism",
+      "Plotless Ballet"
+    ],
+    "genre": [
+      "Abstract",
+      "Plotless"
+    ]
   },
   {
     "id": 52,
@@ -2366,7 +2925,18 @@
       "europeana_search_term": "The Dybbuk Ballet Bernstein Robbins",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Dybbuk+Jerome+Robbins+Ballet",
       "attribution_cover": "Photograph by Martha Swope. Patricia McBride and Helgi Tomasson in Dybbuk (Jerome Robbins), New York City Ballet, 1974. Source: Martha Swope Collection / New York Public Library for the Performing Arts, published by CBS News: https://www.cbsnews.com/pictures/dance-photographer-martha-swope-1928-2017/. NYPL states that it holds or manages the rights; no open licence has been identified. Included with attribution for this restricted-access educational project; attribution does not constitute permission."
-    }
+    },
+    "schools": [
+      "American"
+    ],
+    "traditions": [
+      "American Neoclassicism",
+      "Dance Drama"
+    ],
+    "genre": [
+      "Narrative",
+      "Dance Drama"
+    ]
   },
   {
     "id": 53,
@@ -2411,7 +2981,18 @@
       "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Tanaquil_Le_Clercq_-_The_Novice_%281955%29.jpg",
       "europeana_search_term": "The Cage Ballet Robbins Stravinsky",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Cage+Jerome+Robbins+NYCB"
-    }
+    },
+    "schools": [
+      "American"
+    ],
+    "traditions": [
+      "American Neoclassicism",
+      "Abstract Ballet"
+    ],
+    "genre": [
+      "Abstract",
+      "Dance Drama"
+    ]
   },
   {
     "id": 54,
@@ -2454,12 +3035,23 @@
       "cover_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Fran%C3%A7oise_Foliot_-_Nijinski_-_Le_Pr%C3%A9lude_%C3%A0_l%27Apr%C3%A8s-midi_d%27un_faune.jpg/500px-Fran%C3%A7oise_Foliot_-_Nijinski_-_Le_Pr%C3%A9lude_%C3%A0_l%27Apr%C3%A8s-midi_d%27un_faune.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
       "europeana_search_term": "(\"Afternoon of a Faun\" OR \"Après-midi d'un faune\") AND Robbins",
       "youtube_url": "https://www.youtube.com/results?search_query=Afternoon+of+a+Faun+Jerome+Robbins+NYCB"
-    }
+    },
+    "schools": [
+      "American"
+    ],
+    "traditions": [
+      "American Neoclassicism",
+      "Ballet blanc"
+    ],
+    "genre": [
+      "Narrative",
+      "Ballet blanc"
+    ]
   },
   {
     "id": 55,
     "title": "Glass Pieces",
-    "style": "Contemporary",
+    "style": "Neoclassical",
     "difficulty_level": "Advanced",
     "epoch_period": "Late 20th Century",
     "composer": "Philip Glass",
@@ -2497,7 +3089,18 @@
       "europeana_search_term": "Glass Pieces Jerome Robbins",
       "youtube_url": "https://www.youtube.com/results?search_query=Glass+Pieces+Jerome+Robbins+NYCB",
       "attribution_cover": "Photograph by Martha Swope, 1983. Bart Cook and Maria Calegari in Glass Pieces (New York City Ballet). Source: Immortal Icons of Dance, https://www.immortaliconsofdance.com/post/nycb-vol-15-no-3-glass-pieces. The page does not specify a reuse licence; image included with attribution for this restricted-access educational project. Reproduction rights have not been verified."
-    }
+    },
+    "schools": [
+      "American"
+    ],
+    "traditions": [
+      "American Neoclassicism",
+      "Contemporary Ballet"
+    ],
+    "genre": [
+      "Abstract",
+      "Plotless"
+    ]
   },
   {
     "id": 56,
@@ -2540,7 +3143,18 @@
       "europeana_search_term": "Liebeslieder Walzer Balanchine",
       "youtube_url": "https://www.youtube.com/results?search_query=Liebeslieder+Walzer+George+Balanchine",
       "attribution_cover": "Photograph: New York City Ballet; production photograph published on the official Liebeslieder Walzer repertoire page. Source: https://www.nycballet.com/discover/ballet-repertory/liebeslieder-walzer. The page credits production photography © Erin Baiano and Paul Kolnik. All rights reserved; included with attribution for this restricted-access educational project, with no explicit reuse licence identified."
-    }
+    },
+    "schools": [
+      "American",
+      "Balanchine"
+    ],
+    "traditions": [
+      "American Neoclassicism"
+    ],
+    "genre": [
+      "Abstract",
+      "Character Dance"
+    ]
   },
   {
     "id": 57,
@@ -2585,12 +3199,24 @@
       "europeana_search_term": "Union Jack Ballet Balanchine",
       "youtube_url": "https://www.youtube.com/results?search_query=Union+Jack+George+Balanchine+NYCB",
       "attribution_cover": "Official New York City Ballet production photograph of George Balanchine’s Union Jack, showing the semaphore-flag finale. Source: New York City Ballet, official repertory page: https://www.nycballet.com/discover/ballet-repertory/union-jack/. The page credits performance photography to Erin Baiano and Paul Kolnik but does not identify the photographer of this individual image. No explicit reuse licence has been identified. Included with attribution for this restricted educational project; attribution does not constitute permission."
-    }
+    },
+    "schools": [
+      "American",
+      "Balanchine"
+    ],
+    "traditions": [
+      "American Neoclassicism",
+      "Character Ballet"
+    ],
+    "genre": [
+      "Divertissement",
+      "Character Dance"
+    ]
   },
   {
     "id": 58,
     "title": "L'Arlésienne",
-    "style": "Modern / Avant-Garde",
+    "style": "Modernist",
     "difficulty_level": "Advanced",
     "epoch_period": "Late 20th Century",
     "composer": "Georges Bizet",
@@ -2630,7 +3256,18 @@
       "europeana_search_term": "(Arlésienne OR Arlesienne) AND \"Roland Petit\"",
       "youtube_url": "https://www.youtube.com/results?search_query=L+Arlesienne+Roland+Petit+Ballet",
       "attribution_cover": "Photograph by Laura Ferrari. The Tokyo Ballet in Roland Petit’s L’Arlésienne (2017). Source: NBS / Japan Performing Arts Foundation, official Tokyo Ballet premiere programme: https://www.nbs.or.jp/english/2017/05/. The source identifies the photographer; no explicit reuse licence has been identified. Included with attribution for this restricted educational project; attribution does not constitute permission."
-    }
+    },
+    "schools": [
+      "French"
+    ],
+    "traditions": [
+      "French Modern Ballet",
+      "Narrative Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Dance Drama"
+    ]
   },
   {
     "id": 59,
@@ -2673,7 +3310,18 @@
       "europeana_search_term": "Stravinsky Violin Concerto Balanchine",
       "youtube_url": "https://www.youtube.com/results?search_query=Stravinsky+Violin+Concerto+George+Balanchine",
       "attribution_cover": "Photograph by Bruce Zinger. Sonia Rodriguez and Nehemiah Kish in Stravinsky Violin Concerto (2004). Source: The National Ballet of Canada, Echoes of Stravinsky production gallery. No open reuse licence has been identified; included with attribution for this restricted educational project. Attribution does not constitute permission."
-    }
+    },
+    "schools": [
+      "American",
+      "Balanchine"
+    ],
+    "traditions": [
+      "American Neoclassicism"
+    ],
+    "genre": [
+      "Abstract",
+      "Plotless"
+    ]
   },
   {
     "id": 60,
@@ -2716,7 +3364,19 @@
       "europeana_search_term": "Divertimento No 15 Balanchine",
       "youtube_url": "https://www.youtube.com/results?search_query=Divertimento+No+15+George+Balanchine+NYCB",
       "attribution_cover": "Photograph from Ballet Chicago’s 2014/2024 production gallery of George Balanchine’s Divertimento No. 15. Source: Ballet Chicago, official repertoire gallery: https://www.balletchicago.org/divertimento-no-15. The page credits Ron McKinney Photography and Mya Davis but does not identify the photographer of this individual image. No open reuse licence is stated. Included with attribution for this restricted educational project at the user’s discretion; attribution does not constitute permission. Portrait-oriented gallery image; direct Wix-hosted JPEG URL is being tested."
-    }
+    },
+    "schools": [
+      "American",
+      "Balanchine"
+    ],
+    "traditions": [
+      "American Neoclassicism",
+      "Divertissement"
+    ],
+    "genre": [
+      "Abstract",
+      "Divertissement"
+    ]
   },
   {
     "id": 61,
@@ -2803,11 +3463,23 @@
       "europeana_search_term": "(Raymonda OR Raymonda's Dream) AND (Marius Petipa OR Alexander Glazunov)",
       "youtube_url": "https://www.youtube.com/results?search_query=Raymonda+Marius+Petipa+full+ballet",
       "attribution_cover": "Production photograph of Raymonda at the Primorsky Stage of the Mariinsky Theatre. Source: Mariinsky Theatre, official performance page: https://prim.mariinsky.ru/en/playbill/playbill/2025/9/11/1_1900/. The page identifies the production and cast but does not state the photographer or an open reuse licence. Included with attribution for this restricted educational project at the user’s discretion; attribution does not constitute permission."
-    }
+    },
+    "schools": [
+      "Russian",
+      "Mariinsky"
+    ],
+    "traditions": [
+      "Imperial Russian Ballet",
+      "Academic Grand Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Grand Ballet"
+    ]
   },
   {
     "id": 62,
-    "title": "The Pharaoh’s Daughter",
+    "title": "The Pharaoh's Daughter",
     "style": "Classical",
     "difficulty_level": "Virtuoso",
     "epoch_period": "19th Century",
@@ -2885,12 +3557,27 @@
       "europeana_search_term": "(The Pharaoh's Daughter OR La Fille du pharaon OR Doch Faraona) AND (Marius Petipa OR Cesare Pugni)",
       "youtube_url": "https://www.youtube.com/results?search_query=La+Fille+du+Pharaon+Petipa+full+ballet",
       "attribution_cover": "Production photograph of La Fille du Pharaon at the Mariinsky Theatre. Source: Mariinsky Theatre, official repertoire page: https://site.mariinsky.ru/en/playbill/playbill/2024/5/18/2_1200/. The image filename credits Vilchuk; no open reuse licence is stated. Included with attribution for this restricted educational project at the user’s discretion; attribution does not constitute permission."
-    }
+    },
+    "schools": [
+      "Russian",
+      "Mariinsky",
+      "Bolshoi"
+    ],
+    "traditions": [
+      "Imperial Russian Ballet",
+      "Historical Ballet",
+      "Orientalist Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Historical",
+      "Grand Ballet"
+    ]
   },
   {
     "id": 63,
     "title": "The Flames of Paris",
-    "style": "Soviet Classical",
+    "style": "Classical",
     "difficulty_level": "Advanced",
     "epoch_period": "20th Century",
     "composer": "Boris Asafiev",
@@ -2958,7 +3645,22 @@
       "europeana_search_term": "(The Flames of Paris OR Les Flammes de Paris OR Plamya Parizha) AND (Vasily Vainonen OR Boris Asafiev)",
       "youtube_url": "https://www.youtube.com/results?search_query=The+Flames+of+Paris+Vainonen+Ratmansky+full+ballet",
       "attribution_cover": "Production photograph of The Flames of Paris at the Mariinsky Theatre. Source: Mariinsky Theatre, official performance page: https://www.mariinsky.ru/playbill/playbill/2026/9/27/2_2000/. The source page does not identify the photographer or state an open reuse licence. Included with attribution for this restricted educational project at the user’s discretion; attribution does not constitute permission."
-    }
+    },
+    "schools": [
+      "Russian",
+      "Mariinsky",
+      "Bolshoi"
+    ],
+    "traditions": [
+      "Soviet Choreodrama",
+      "Revolutionary Ballet",
+      "Heroic Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Heroic",
+      "Dance Drama"
+    ]
   },
   {
     "id": 64,
@@ -3015,12 +3717,25 @@
       "europeana_search_term": "(\"Diana and Actaeon\" OR \"Diane et Actéon\" OR \"Pas de Diane\") AND (ballet OR Petipa OR Vaganova OR Drigo)",
       "youtube_url": "https://www.youtube.com/results?search_query=Diana+and+Actaeon+Pas+de+Deux+ballet",
       "attribution_cover": null
-    }
+    },
+    "schools": [
+      "Russian",
+      "Mariinsky",
+      "Vaganova"
+    ],
+    "traditions": [
+      "Imperial Russian Ballet",
+      "Classical Pas de Deux"
+    ],
+    "genre": [
+      "Pas de Deux",
+      "Divertissement"
+    ]
   },
   {
     "id": 65,
-    "title": "The Wayward Daughter (La Fille mal gardée)",
-    "style": "Classical / Comic",
+    "title": "The Wayward Daughter",
+    "style": "Classical",
     "difficulty_level": "Advanced",
     "epoch_period": "18th Century",
     "composer": "Ferdinand Hérold (1828 score; arranged by John Lanchbery for Frederick Ashton's 1960 production)",
@@ -3091,12 +3806,23 @@
       "europeana_search_term": "(\"La Fille mal gardée\" OR \"The Wayward Daughter\" OR \"The Poorly Guarded Girl\") AND (Dauberval OR Ashton OR ballet)",
       "youtube_url": "https://www.youtube.com/results?search_query=La+Fille+mal+gardee+Frederick+Ashton+Royal+Ballet",
       "attribution_cover": null
-    }
+    },
+    "schools": [
+      "French",
+      "British"
+    ],
+    "traditions": [
+      "French Comic Ballet"
+    ],
+    "genre": [
+      "Narrative",
+      "Comic"
+    ]
   },
   {
     "id": 66,
-    "title": "Harlequinade (The Millions of Harlequin)",
-    "style": "Classical / Comic",
+    "title": "Harlequinade",
+    "style": "Classical",
     "difficulty_level": "Advanced",
     "epoch_period": "Early 20th Century",
     "composer": "Riccardo Drigo",
@@ -3150,7 +3876,21 @@
       "europeana_search_term": "(Harlequinade OR \"The Millions of Harlequin\" OR \"Le Million d'Arlequin\") AND (Marius Petipa OR Riccardo Drigo)",
       "youtube_url": "https://www.youtube.com/results?search_query=Harlequinade+Petipa+Drigo+ballet",
       "attribution_cover": null
-    }
+    },
+    "schools": [
+      "Russian",
+      "Mariinsky"
+    ],
+    "traditions": [
+      "Imperial Russian Ballet",
+      "Comic Ballet",
+      "Commedia dell’arte"
+    ],
+    "genre": [
+      "Narrative",
+      "Comic",
+      "Divertissement"
+    ]
   },
   {
     "id": 67,
@@ -3225,12 +3965,26 @@
       "europeana_search_term": "(Esmeralda OR \"La Esmeralda\") AND (Jules Perrot OR Cesare Pugni OR Marius Petipa OR ballet)",
       "youtube_url": "https://www.youtube.com/results?search_query=Esmeralda+Jules+Perrot+Petipa+ballet",
       "attribution_cover": null
-    }
+    },
+    "schools": [
+      "French",
+      "Russian",
+      "Mariinsky",
+      "Vaganova"
+    ],
+    "traditions": [
+      "French Romantic Ballet",
+      "Ballet blanc"
+    ],
+    "genre": [
+      "Narrative",
+      "Romantic Tragedy"
+    ]
   },
   {
     "id": 68,
-    "title": "The Fairy Doll (Die Puppenfee)",
-    "style": "Classical / Character",
+    "title": "The Fairy Doll",
+    "style": "Classical",
     "difficulty_level": "Intermediate",
     "epoch_period": "Late 19th Century",
     "composer": "Josef Bayer",
@@ -3294,6 +4048,17 @@
       "europeana_search_term": "(\"Die Puppenfee\" OR \"The Fairy Doll\" OR \"La Fée des poupées\") AND (Josef Bayer OR Joseph Haßreiter OR ballet)",
       "youtube_url": "https://www.youtube.com/results?search_query=Die+Puppenfee+The+Fairy+Doll+ballet+full",
       "attribution_cover": null
-    }
+    },
+    "schools": [],
+    "traditions": [
+      "Viennese Ballet",
+      "Divertissement",
+      "Character Dance"
+    ],
+    "genre": [
+      "Divertissement",
+      "Character Dance",
+      "Comic"
+    ]
   }
 ]
