@@ -23,6 +23,7 @@ app.get('/api/ballets', (req, res) => {
   const list = balletsData.map(b => ({
     id: b.id,
     title: b.title,
+    original_title: b.original_title,
     composer: b.composer,
     original_choreographer: b.original_choreographer,
     premiere_year: b.premiere_year,
