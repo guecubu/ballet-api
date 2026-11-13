@@ -28,6 +28,7 @@ app.get('/api/ballets', (req, res) => {
     original_choreographer: b.original_choreographer,
     premiere_year: b.premiere_year,
     cover_image: b.multimedia ? b.multimedia.cover_image_url : null,
+    cover_aspect_ratio: b.multimedia ? b.multimedia.cover_aspect_ratio : null,
     acts: b.acts,
     style: b.style,
     epoch_period: b.epoch_period
